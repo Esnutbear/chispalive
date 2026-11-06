@@ -1,17 +1,18 @@
 {
-  "version": "1.6.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.6.0.zip",
-  "sha256": "04af1a64c4638e269b0638b6d0fdbfbd8dfa9248bf8980d53e08f481faebbfce",
-  "sig": "qIMwptowaH0ghj/ZqZySbDyyCaIt7+wbY18pdtbHf98vRIHqVxRoqszUD9IVCOU66pOBxFOe0emf+DVr0MbCAg==",
+  "version": "1.7.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.7.0.zip",
+  "sha256": "a58b1546d5afbbba6f98593b1841a8d502ccb75232e2d7c1ba9591e611c4100c",
+  "sig": "9Dh5TgUJn1x3MkegI8FmnUMws6q6HFCdFDKnh5VaT04vj4NCW484a9digAFvP+CAOTusHmkGTOt7F54RXnAhCA==",
   "notes": [
-    "🥚 Una mascota que vive en tu stream y nace de un huevo",
-    "🎁 Los regalos le dan experiencia y la hacen evolucionar: cría, joven, adulta y legendaria",
-    "👍 Los likes le dan de comer. Si pasa hambre se pone triste y lo dice",
-    "💾 Se guarda entre lives, así tus viewers vuelven para verla crecer",
-    "🏅 Muestra a sus 3 mejores cuidadores",
-    "🎨 4 colores (fuego, hielo, bosque, galaxia) y 2 diseños: tarjeta o flotante",
-    "⚡ Nueva acción: puedes disparar algo cuando la mascota evoluciona",
-    "📱 Botón para darle de comer desde el celular"
+    "🏰 Dos castillos frente a frente. El regalo de cada equipo dispara un cañonazo al castillo enemigo",
+    "🧱 Los castillos se van rompiendo: primero las almenas, después se caen las torres y al final arden",
+    "☄️ Los regalos grandes lanzan una bola de fuego con daño doble",
+    "🔨 Un regalo repara tu castillo y otro le pone un escudo por unos segundos",
+    "👍 Los likes de tu equipo lanzan flechas y los follows reparan",
+    "🐉 Cada cierto tiempo llega un dragón y quema al que va ganando",
+    "🔥 En los últimos segundos viene el asalto final: todo el daño vale x2",
+    "🏆 Al final se derrumba el castillo perdedor y sale el MVP de cada equipo",
+    "📱 Controles desde el celular y nueva acción cuando gana un castillo"
   ],
   "fecha": "2026-11-06"
 }
