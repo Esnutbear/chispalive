@@ -1,11 +1,16 @@
 {
-  "version": "1.4.2",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.4.2.zip",
-  "sha256": "00a21a0853c04f825658da7a112b9ac7cc70903d0b0df75b8bf4bb444a4474b1",
-  "sig": "gKzRctdLLKtLMl8VOut6wReQjdsG2aQcRihAf8PodQLkvqmlibNWEBFPHYMMBGAXUV6jzuMEDZ77oZSkfBpEDA==",
+  "version": "1.5.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.5.0.zip",
+  "sha256": "6bfea7a8be2808bc7335678d9ec2cab99718cb7bfa199286d58bed2c96073448",
+  "sig": "nfV6D0lym+Pl/zGF2iLb7GU/ZHmkcRuCXVOoEjyHF1QcLDRnkdsP4coUIPg+jGuVlgepkHp1BhNff1tICJlcDA==",
   "notes": [
-    "🔄 ChispaLive ahora busca versiones nuevas por internet y te avisa solo: le das Actualizar y listo, sin descargar nada",
-    "🔐 Cada actualización viene firmada: si alguien intenta meterte un archivo falso, ChispaLive no lo instala"
+    "🚀 Turbo: con un regalo tu animal corre el doble de rápido por unos segundos",
+    "🍌 Cáscara de plátano: el que va primero resbala y retrocede",
+    "🛡️ Escudo: protege a tu animal de la cáscara",
+    "🎲 Eventos sorpresa: viento a favor para el último, lluvia que frena a todos y una estrella que hace saltar a un animal",
+    "🏆 Al final sale un podio con el 1°, 2° y 3° lugar",
+    "✨ Pista más viva: polvo al correr, llamas en el turbo, burbuja del escudo y lluvia en pantalla",
+    "📱 Botón de evento sorpresa también en el celular"
   ],
   "fecha": "2026-11-06"
 }
