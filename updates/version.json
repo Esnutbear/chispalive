@@ -1,16 +1,14 @@
 {
-  "version": "1.5.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.5.0.zip",
-  "sha256": "6bfea7a8be2808bc7335678d9ec2cab99718cb7bfa199286d58bed2c96073448",
-  "sig": "nfV6D0lym+Pl/zGF2iLb7GU/ZHmkcRuCXVOoEjyHF1QcLDRnkdsP4coUIPg+jGuVlgepkHp1BhNff1tICJlcDA==",
+  "version": "1.5.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.5.1.zip",
+  "sha256": "4477720ad86bff210d6f2ffbf1f413592f0fae40d8f38f62d458840f713ab83a",
+  "sig": "6jeSlVJpI9kDucBCMn1L3nIPHRdbPz/C907TYUdShBr8bQxf7uGFJbSfjRuPUsBq0enMfRf2Otpkse8OTFvfBQ==",
   "notes": [
-    "🚀 Turbo: con un regalo tu animal corre el doble de rápido por unos segundos",
-    "🍌 Cáscara de plátano: el que va primero resbala y retrocede",
-    "🛡️ Escudo: protege a tu animal de la cáscara",
-    "🎲 Eventos sorpresa: viento a favor para el último, lluvia que frena a todos y una estrella que hace saltar a un animal",
-    "🏆 Al final sale un podio con el 1°, 2° y 3° lugar",
-    "✨ Pista más viva: polvo al correr, llamas en el turbo, burbuja del escudo y lluvia en pantalla",
-    "📱 Botón de evento sorpresa también en el celular"
+    "🐉 Nuevos jefes: Dragón de Fuego, Rey Calavera, Slime Gigante, Kraken, Mecha X-9 y Fantasmón, además del Rey Gólem",
+    "😡 Cada monstruo cambia de cara cuando se enoja y cuando está furioso",
+    "🔀 Opción para que en cada nivel salga un monstruo distinto",
+    "👀 Al derrotar al jefe se anuncia cuál viene después",
+    "🏷️ Si dejas el nombre vacío, el jefe se llama como el monstruo que sale"
   ],
   "fecha": "2026-11-06"
 }
