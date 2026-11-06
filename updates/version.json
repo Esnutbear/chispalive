@@ -1,14 +1,17 @@
 {
-  "version": "1.5.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.5.1.zip",
-  "sha256": "4477720ad86bff210d6f2ffbf1f413592f0fae40d8f38f62d458840f713ab83a",
-  "sig": "6jeSlVJpI9kDucBCMn1L3nIPHRdbPz/C907TYUdShBr8bQxf7uGFJbSfjRuPUsBq0enMfRf2Otpkse8OTFvfBQ==",
+  "version": "1.6.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.6.0.zip",
+  "sha256": "04af1a64c4638e269b0638b6d0fdbfbd8dfa9248bf8980d53e08f481faebbfce",
+  "sig": "qIMwptowaH0ghj/ZqZySbDyyCaIt7+wbY18pdtbHf98vRIHqVxRoqszUD9IVCOU66pOBxFOe0emf+DVr0MbCAg==",
   "notes": [
-    "🐉 Nuevos jefes: Dragón de Fuego, Rey Calavera, Slime Gigante, Kraken, Mecha X-9 y Fantasmón, además del Rey Gólem",
-    "😡 Cada monstruo cambia de cara cuando se enoja y cuando está furioso",
-    "🔀 Opción para que en cada nivel salga un monstruo distinto",
-    "👀 Al derrotar al jefe se anuncia cuál viene después",
-    "🏷️ Si dejas el nombre vacío, el jefe se llama como el monstruo que sale"
+    "🥚 Una mascota que vive en tu stream y nace de un huevo",
+    "🎁 Los regalos le dan experiencia y la hacen evolucionar: cría, joven, adulta y legendaria",
+    "👍 Los likes le dan de comer. Si pasa hambre se pone triste y lo dice",
+    "💾 Se guarda entre lives, así tus viewers vuelven para verla crecer",
+    "🏅 Muestra a sus 3 mejores cuidadores",
+    "🎨 4 colores (fuego, hielo, bosque, galaxia) y 2 diseños: tarjeta o flotante",
+    "⚡ Nueva acción: puedes disparar algo cuando la mascota evoluciona",
+    "📱 Botón para darle de comer desde el celular"
   ],
   "fecha": "2026-11-06"
 }
