@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <radialGradient id="fur" cx="45%" cy="35%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset=".7" stop-color="#eef6ff"/><stop offset="1" stop-color="#cfe2f5"/></radialGradient>
+    <linearGradient id="lens" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2e7e"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f1830"/><stop offset="1" stop-color="#0b0812"/></linearGradient>
+  </defs>
+  <!-- orejas -->
+  <circle cx="62" cy="70" r="34" fill="url(#fur)" stroke="#b9d3ee" stroke-width="4"/>
+  <circle cx="194" cy="70" r="34" fill="url(#fur)" stroke="#b9d3ee" stroke-width="4"/>
+  <circle cx="62" cy="72" r="17" fill="#ffd1e6"/>
+  <circle cx="194" cy="72" r="17" fill="#ffd1e6"/>
+  <!-- cabeza -->
+  <ellipse cx="128" cy="138" rx="96" ry="88" fill="url(#fur)" stroke="#b9d3ee" stroke-width="4"/>
+  <!-- mejillas -->
+  <ellipse cx="66" cy="168" rx="16" ry="10" fill="#ffb6d5" opacity=".55"/>
+  <ellipse cx="190" cy="168" rx="16" ry="10" fill="#ffb6d5" opacity=".55"/>
+  <!-- hocico -->
+  <ellipse cx="128" cy="178" rx="44" ry="34" fill="#ffffff" stroke="#d6e6f6" stroke-width="3"/>
+  <path d="M110 160 Q128 148 146 160 Q146 174 128 178 Q110 174 110 160Z" fill="#1a1426"/>
+  <ellipse cx="121" cy="158" rx="6" ry="3.5" fill="#ffffff" opacity=".6"/>
+  <path d="M128 178 L128 188 M112 190 Q128 204 144 190" fill="none" stroke="#1a1426" stroke-width="5" stroke-linecap="round"/>
+  <!-- lentes de sol -->
+  <path d="M40 112 Q40 98 54 98 L114 98 Q122 98 122 108 L118 132 Q114 150 96 150 L68 150 Q48 150 44 132 Z" fill="url(#lens)" stroke="url(#frame)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M216 112 Q216 98 202 98 L142 98 Q134 98 134 108 L138 132 Q142 150 160 150 L188 150 Q208 150 212 132 Z" fill="url(#lens)" stroke="url(#frame)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M120 108 Q128 100 136 108" fill="none" stroke="#0b0812" stroke-width="7" stroke-linecap="round"/>
+  <path d="M40 106 L20 98 M216 106 L236 98" stroke="#0b0812" stroke-width="7" stroke-linecap="round"/>
+  <!-- brillos -->
+  <path d="M58 108 L76 108 L62 132 L52 132Z" fill="#ffffff" opacity=".55"/>
+  <path d="M152 108 L170 108 L156 132 L146 132Z" fill="#ffffff" opacity=".55"/>
+  <circle cx="104" cy="112" r="4" fill="#ffffff" opacity=".8"/>
+  <circle cx="198" cy="112" r="4" fill="#ffffff" opacity=".8"/>
+  <path d="M36 128 Q30 34 128 28 Q226 34 220 128" fill="none" stroke="#1f1830" stroke-width="12" stroke-linecap="round"/>
+  <rect x="20" y="112" width="30" height="50" rx="12" fill="#ff2e7e" stroke="#1f1830" stroke-width="5"/>
+  <rect x="206" y="112" width="30" height="50" rx="12" fill="#ff2e7e" stroke="#1f1830" stroke-width="5"/>
+  <path d="M34 160 Q40 214 96 214" fill="none" stroke="#1f1830" stroke-width="7" stroke-linecap="round"/>
+  <rect x="92" y="204" width="26" height="20" rx="9" fill="#ffd23f" stroke="#1f1830" stroke-width="5"/>
+</svg>
