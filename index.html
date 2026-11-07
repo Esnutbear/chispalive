@@ -207,6 +207,8 @@ section { padding: 100px 0; position: relative; }
 .plan ul { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; color: #ddd6ef; }
 .plan li::before { content: '✓'; color: var(--ok); font-weight: 800; margin-right: 10px; }
 .plan .btn { width: 100%; }
+.buy2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.plan .save.yr { color: var(--muted); font-weight: 600; }
 .pay { margin-top: 30px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center; color: var(--muted); font-size: 15px; }
 .pay span { padding: 7px 14px; border-radius: 11px; border: 1px solid var(--line); color: var(--ink); background: var(--panel); font-weight: 600; }
 .note { text-align: center; color: var(--muted); font-size: 14.5px; margin-top: 14px; }
@@ -416,7 +418,7 @@ header .lang { margin-left: 8px; }
   <section id="juegos">
     <div class="wrap">
       <div class="head">
-        <span class="kicker" data-en="10 games and 6 widgets">10 juegos y 6 widgets</span>
+        <span class="kicker" data-en="17 games and 9 widgets">17 juegos y 9 widgets</span>
         <h2 data-en='Pick what <span class="grad">your chat</span> plays'>Elige con qué va a jugar <span class="grad">tu chat</span></h2>
         <p class="lead" data-en="Hover over a card (or scroll on your phone) to see it in action. These are real clips from the app.">Pasa el mouse por una tarjeta (o baja en tu celular) para verla en acción. Son clips reales de la app.</p>
         <div class="filters" role="group" aria-label="Filtrar">
@@ -527,8 +529,8 @@ header .lang { margin-left: 8px; }
     <div class="wrap">
       <div class="head center">
         <span class="kicker" data-en="Pricing">Precios</span>
-        <h2 data-en='Everything included, <span class="grad">pick how long</span>'>Todo incluido, <span class="grad">elige cuánto tiempo</span></h2>
-        <p class="lead" data-en="Both plans include every game and every update.">Los dos planes traen todos los juegos y todas las actualizaciones.</p>
+        <h2 data-en='Start with Basic, <span class="grad">go all in with Pro</span>'>Empieza con Básico, <span class="grad">ve con todo en Pro</span></h2>
+        <p class="lead" data-en="Both plans get every update. Pay monthly or yearly (the year comes out much cheaper).">Los dos planes reciben todas las actualizaciones. Pagas por mes o por año (el año sale mucho más barato).</p>
         <div class="cur" role="group" aria-label="Moneda">
           <button type="button" id="cur-pen" aria-pressed="true" data-en="Soles (S/)">Soles (S/)</button>
           <button type="button" id="cur-usd" aria-pressed="false" data-en="Dollars ($)">Dólares ($)</button>
@@ -536,19 +538,19 @@ header .lang { margin-left: 8px; }
       </div>
       <div class="plans">
         <article class="plan">
-          <h3 data-en="Monthly">Mensual</h3>
-          <div class="price" data-pen="S/ 30" data-usd="$8">S/ 30<small data-en="/ month">/ mes</small></div>
-          <div class="save">&nbsp;</div>
-          <ul><li data-en="All 10 games and 6 widgets">Los 10 juegos y 6 widgets</li><li data-en="Control from your phone">Control desde el celular</li><li data-en="Support on Discord">Soporte por Discord</li></ul>
-          <a class="btn" data-buy="mensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Buy monthly">Comprar mensual</a>
+          <h3 data-en="Basic">Básico</h3>
+          <div class="price" data-pen="S/ 20" data-usd="$5">S/ 20<small data-en="/ month">/ mes</small></div>
+          <div class="save yr" data-pen="o S/ 90 al año" data-usd="or $24 a year" data-pen-en="or S/ 90 a year" data-usd-es="o $24 al año">o S/ 90 al año</div>
+          <ul><li data-en="8 games: Auction, Spin Royale, Wheel, Lucky Roll, Jar, Battle, Race and Boss">8 juegos: Subasta, Spin Royale, Ruleta, Lucky Roll, Frasco, Batalla, Carrera y Jefe</li><li data-en="Alerts, on-screen chat, goals, heart goal, rankings and subathon">Alertas, chat en pantalla, metas, meta de corazón, rankings y subathon</li><li data-en="Chat voice and Actions">Voz del chat y Acciones</li><li data-en="Control from your phone">Control desde el celular</li></ul>
+          <div class="buy2"><a class="btn" data-buy="bmensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="banual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
         </article>
         <article class="plan best">
-          <span class="ribbon" data-en="MOST POPULAR">EL MÁS ELEGIDO</span>
-          <h3 data-en="Yearly">Anual</h3>
-          <div class="price" data-pen="S/ 130" data-usd="$35">S/ 130<small data-en="/ year">/ año</small></div>
-          <div class="save" id="save"></div>
-          <ul><li data-en="Everything in monthly">Todo lo del mensual</li><li data-en="One payment a year">Un solo pago al año</li><li data-en="New features as soon as they ship">Las novedades te llegan apenas salen</li></ul>
-          <a class="btn pri" data-buy="anual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Buy yearly">Comprar anual</a>
+          <span class="ribbon" data-en="EVERYTHING INCLUDED">TODO INCLUIDO</span>
+          <h3 data-en="Pro">Pro</h3>
+          <div class="price" data-pen="S/ 35" data-usd="$9">S/ 35<small data-en="/ month">/ mes</small></div>
+          <div class="save yr" data-pen="o S/ 150 al año" data-usd="or $40 a year" data-pen-en="or S/ 150 a year" data-usd-es="o $40 al año">o S/ 150 al año</div>
+          <ul><li data-en="Everything in Basic">Todo lo del Básico</li><li data-en="9 more games: Trivia, Pet, Poll, Penalties, Slots, Hot Bomb, Fishing, Guess the Word and Castles">9 juegos más: Trivia, Mascota, Votación, Penales, Tragamonedas, Bomba, Pesca, Adivina y Castillos</li><li data-en="Giveaways, PK Scoreboard and Chat Characters">Sorteos, Marcador PK y Muñequitos del chat</li><li data-en="OBS control and camera effects with gifts">Control de OBS y efectos en la cámara con regalos</li><li data-en="Roblox connected to your live">Roblox conectado a tu live</li></ul>
+          <div class="buy2"><a class="btn pri" data-buy="mensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn pri" data-buy="anual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
         </article>
       </div>
       <div class="pay"><span data-en="Pay with" style="border:0;background:none;padding:0;color:var(--muted);font-weight:500">Pagas con</span><span>Yape</span><span>PagoEfectivo</span><span data-en="Card or PayPal">Tarjeta o PayPal</span></div>
@@ -601,7 +603,7 @@ header .lang { margin-left: 8px; }
 
 <script>
 // Links de pago con tarjeta (Lemon Squeezy). Cuando los tengas, pégalos aquí y los botones irán directo al pago.
-const CHECKOUT = { mensual: '', anual: '' };
+const CHECKOUT = { bmensual: '', banual: '', mensual: '', anual: '' };
 
 (function () {
   const RM = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -641,7 +643,7 @@ const CHECKOUT = { mensual: '', anual: '' };
   function setCur(cur, save = true) {
     CUR = cur;
     document.querySelectorAll('.price[data-pen]').forEach(el => { const s = el.querySelector('small'); el.firstChild.nodeValue = el.dataset[cur]; if (s) el.append(s); });
-    $('save').textContent = cur === 'usd' ? L('Te sale a $2.92 al mes (ahorras $61)', 'Works out to $2.92 a month (you save $61)') : L('Te sale a menos de S/ 11 al mes (ahorras S/ 230)', 'Works out to under S/ 11 a month (you save S/ 230)');
+    document.querySelectorAll('.yr[data-pen]').forEach(el => { el.textContent = L(cur === 'usd' ? el.dataset.usdEs : el.dataset.pen, cur === 'usd' ? el.dataset.usd : el.dataset.penEn); });
     $('cur-pen').setAttribute('aria-pressed', cur === 'pen'); $('cur-usd').setAttribute('aria-pressed', cur === 'usd');
     if (save) { CUR_SAVED = cur; try { localStorage.setItem('chispa.cur', cur); } catch (e) {} }
   }
