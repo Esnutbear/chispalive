@@ -1,16 +1,15 @@
 {
-  "version": "2.6.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.6.0.zip",
-  "sha256": "b0d86f61feb3b34fb055dbf6cbbbe03dd46130ba2a053db51a6e48baa4b26d3c",
-  "sig": "qJpBZdmCB4w7dCYXIQJQ379w3zkBY7aXFu1Gex+yZnZDAKIvkGe29CvA4Qtb9MiquNXarTc+KesVtXl1dmHfDw==",
+  "version": "2.7.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.7.0.zip",
+  "sha256": "56753d2369aa0a5655335c3feb237b1b1051de2779880ff82aceb835f5a7e438",
+  "sig": "sOXBnUN+yWQkBrsGhNaCiaCcLR3hn3xTj/2TzhKQrLKvnT/WCr2hBN6jm28i6/VcJdRO2bMsWd+7RlSdZ09WDw==",
   "notes": [
-    "🥊 Cuando haces un PK en TikTok, el marcador sale solo con tu foto y la del rival",
-    "📊 Barra de puntos que se mueve en vivo y avisa cuando pasas adelante (o te pasan)",
-    "🔥 En el último minuto sale el aviso y la barra empieza a latir",
-    "💎 Tus 3 mejores aportadores abajo, y el MVP con corona al final",
-    "🏆 Pantalla de ¡GANAMOS! o PERDIMOS, con tu racha de victorias",
-    "✋ PK manual: si TikTok no manda los puntos, tus regalos suman y tú le pones los puntos al rival",
-    "⚡ En Acciones hay dos eventos nuevos: Ganas un PK y Pierdes un PK"
+    "🎥 Los regalos mueven tu cámara en OBS: tiembla, hace zoom, salta, da una vuelta, late o se mece",
+    "🌈 También la pintan: blanco y negro, rojo furia, dorado, azul hielo, arcoíris o flash",
+    "🎛 Puedes prender por unos segundos un filtro que ya tengas en OBS",
+    "↩️ Al terminar, la cámara queda exactamente como estaba",
+    "✨ Con un botón pones efectos sugeridos (Rosa, TikTok, Dona y regalos grandes)",
+    "📍 Está en el menú 🎬 OBS, y también en Acciones como “Efecto en la cámara”"
   ],
   "fecha": "2026-11-07"
 }
