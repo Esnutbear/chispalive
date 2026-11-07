@@ -1,17 +1,12 @@
 {
-  "version": "2.0.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.0.0.zip",
-  "sha256": "34adc2bdc0d0a3da6144e5786a338a3f59c44d11ae92641c45b0283b3412f083",
-  "sig": "hUne6zTKB/rnIHTi1fXCMqst3MNCIIQqpGKt3i7807zY2rjywK7de9QOyfWJylKFBaUGucPgV1/8okYvh/VnCA==",
+  "version": "2.0.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.0.1.zip",
+  "sha256": "88ccbea2978775fbd85e6cac97402f28e54b38e527703f58d163cdf70e2d92c1",
+  "sig": "O7D+NQGLC8f9W92GxtTPt4+3mSz16f1sNAEFxCqZeH6SW6BKnGjTmddruJZAbOFXsbgAQZQCZn3WdBRF0D+TDA==",
   "notes": [
-    "💣 Los viewers entran con !jugar y quedan en un círculo con su foto",
-    "🧨 La bomba le cae a uno con una mecha secreta. Tiene que pasarla con !pasar (o !pasar @nombre) antes de que explote",
-    "🔥 Mientras más se acerca la explosión, la bomba se pone roja, tiembla, el tic-tac se acelera y la arena entera se pone roja",
-    "💥 Al que le explota sale volando y queda fuera. El último que queda gana la corona",
-    "🎁 Si tienes la bomba, cualquier regalo o unos likes la pasan",
-    "🛡️ El regalo de escudo hace que la bomba te rebote la próxima vez",
-    "⚡ Nueva acción cuando alguien gana la bomba caliente",
-    "🎮 ¡Ya son 15 juegos!"
+    "🔧 Después de actualizar, algunos ajustes de los juegos (Castillos, Pesca, Bomba…) podían salir en 0 o vacíos. Ya no pasa",
+    "🔄 El panel ahora espera a que el programa nuevo esté listo antes de recargarse",
+    "🛡️ Si una sección del panel tiene un problema, las demás siguen funcionando normal"
   ],
   "fecha": "2026-11-07"
 }
