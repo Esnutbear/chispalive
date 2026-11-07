@@ -1,15 +1,16 @@
 {
-  "version": "2.5.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.5.0.zip",
-  "sha256": "29e227d76578aa35a397d0a6c749da785ce34deb53d55aa8ab0afa4193660341",
-  "sig": "1L93e9+1OYyUcO0UlqpUNQd0fOu6rO0VbiSowhiTgLGYbhhaXqlUXPYeTbyT8JZ4PZl3MOZjYKiNjauJRmFCBQ==",
+  "version": "2.6.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.6.0.zip",
+  "sha256": "b0d86f61feb3b34fb055dbf6cbbbe03dd46130ba2a053db51a6e48baa4b26d3c",
+  "sig": "qJpBZdmCB4w7dCYXIQJQ379w3zkBY7aXFu1Gex+yZnZDAKIvkGe29CvA4Qtb9MiquNXarTc+KesVtXl1dmHfDw==",
   "notes": [
-    "🎟️ Abre un sorteo con el premio que quieras y tus viewers se anotan escribiendo !sorteo",
-    "🎡 Al sortear gira una ruleta con sus nombres (o los nombres pasan rápido hasta parar)",
-    "🎫 Los regalos dan boletos extra: más boletos, más chance",
-    "⭐ Puedes dejar entrar a todos, solo a los que te siguen o solo a los que mandaron regalo",
-    "✅ El ganador escribe en el chat para confirmar que está. Si no aparece, se sortea otra vez solo",
-    "📱 También lo manejas desde el celular"
+    "🥊 Cuando haces un PK en TikTok, el marcador sale solo con tu foto y la del rival",
+    "📊 Barra de puntos que se mueve en vivo y avisa cuando pasas adelante (o te pasan)",
+    "🔥 En el último minuto sale el aviso y la barra empieza a latir",
+    "💎 Tus 3 mejores aportadores abajo, y el MVP con corona al final",
+    "🏆 Pantalla de ¡GANAMOS! o PERDIMOS, con tu racha de victorias",
+    "✋ PK manual: si TikTok no manda los puntos, tus regalos suman y tú le pones los puntos al rival",
+    "⚡ En Acciones hay dos eventos nuevos: Ganas un PK y Pierdes un PK"
   ],
   "fecha": "2026-11-07"
 }
