@@ -1,14 +1,10 @@
 {
-  "version": "2.8.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.8.0.zip",
-  "sha256": "b5987d74d25fac11ec96ee2c9f4e6cb148ab55883b688bfa655ef9dcee36114d",
-  "sig": "t8os9fRrjvWI+HSrzzJ4k2ugB6BL/Z1ejyR4bHxyzDplYoivZHR8GOULw9D0wvRhZi/GzNrdO/iFnfm+81PMCQ==",
+  "version": "2.8.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.8.1.zip",
+  "sha256": "93a8e558283ebc297d1fc0c4171e6f638d080ea41226752fa437f31fa6e28c5e",
+  "sig": "YZQ0vInXawZXVkJZ7O4QkHAFat9wCoOw8lPAmkQJB1hutWR9POGEDHu3CoYzfLZac++Byr6ZAf3IvSh9sfBZDw==",
   "notes": [
-    "⭐ Plan Básico: 8 juegos, alertas, chat, metas, rankings, subathon, voz, Acciones y control desde el celular",
-    "💎 Plan Pro: todo lo anterior + 9 juegos más, Sorteos, Marcador PK, Muñequitos, OBS con efectos de cámara y Roblox",
-    "✅ Si ya tenías licencia, sigues con todo: tu clave cuenta como Pro",
-    "🏷️ En el menú, lo que es del Pro lleva la etiqueta PRO",
-    "🛒 En 💎 Licencia eliges el plan y ves qué trae cada uno"
+    "💎 A veces la página de Licencia salía vacía y no se veían las etiquetas PRO. Ya carga siempre."
   ],
   "fecha": "2026-11-07"
 }
