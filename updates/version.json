@@ -1,18 +1,17 @@
 {
-  "version": "1.7.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.7.0.zip",
-  "sha256": "a58b1546d5afbbba6f98593b1841a8d502ccb75232e2d7c1ba9591e611c4100c",
-  "sig": "9Dh5TgUJn1x3MkegI8FmnUMws6q6HFCdFDKnh5VaT04vj4NCW484a9digAFvP+CAOTusHmkGTOt7F54RXnAhCA==",
+  "version": "1.8.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.8.0.zip",
+  "sha256": "3abfe840dd75bb5f62496978c48e154ffd0da6cc08d6c69b946423e3688200e2",
+  "sig": "DPL5xpJZ5lSDCaEKPzJ6DKD1yEt38HJEU1MR9b9X5uARuDiXC2EMFSk5/mAFb8LIsBw8V+36xKmjWIRgLcApAw==",
   "notes": [
-    "🏰 Dos castillos frente a frente. El regalo de cada equipo dispara un cañonazo al castillo enemigo",
-    "🧱 Los castillos se van rompiendo: primero las almenas, después se caen las torres y al final arden",
-    "☄️ Los regalos grandes lanzan una bola de fuego con daño doble",
-    "🔨 Un regalo repara tu castillo y otro le pone un escudo por unos segundos",
-    "👍 Los likes de tu equipo lanzan flechas y los follows reparan",
-    "🐉 Cada cierto tiempo llega un dragón y quema al que va ganando",
-    "🔥 En los últimos segundos viene el asalto final: todo el daño vale x2",
-    "🏆 Al final se derrumba el castillo perdedor y sale el MVP de cada equipo",
-    "📱 Controles desde el celular y nueva acción cuando gana un castillo"
+    "🔤 Sale una palabra escondida con su pista y el chat la tiene que escribir. El primero que acierta gana puntos",
+    "🅰️ Si alguien escribe una sola letra y está en la palabra, se destapa (como el ahorcado, pero entre todos)",
+    "😱 Los intentos del chat salen flotando, y si a alguien le faltó una letra aparece un «¡Casi!»",
+    "💡 Pistas: se destapan letras solas con el tiempo, con un regalo o llenando la barra de likes",
+    "🔥 Racha: si el mismo viewer adivina seguido, gana más puntos",
+    "📝 Puedes poner tus propias palabras, una por línea",
+    "🏆 Al final sale un podio con los 3 mejores",
+    "📱 Desde el celular ves la palabra (tapada, la tocas para verla) y das pistas"
   ],
-  "fecha": "2026-11-06"
+  "fecha": "2026-11-07"
 }
