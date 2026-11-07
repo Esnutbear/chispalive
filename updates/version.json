@@ -1,16 +1,15 @@
 {
-  "version": "2.3.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.3.0.zip",
-  "sha256": "36982c0dbdb366eb716f5a74c18b099fe4c78109f804bd24d47f22d3b3e86e19",
-  "sig": "3OBTugkwAgwMiItVCEAmixJmn17KQg14agJ4pZvPYMdpSveQfvZsFkHOk7LfNrVgM4mwc8BokAxFJINrYUrLBg==",
+  "version": "2.4.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.4.0.zip",
+  "sha256": "02961d865ce3aeafbc72712f2dd99d64100bd975875d53ee50edafd10fe080ae",
+  "sig": "+KF1yZVAOuDVP60gRvDZSBKFKyDqIje4Y0qnBOJFoIBZUMm48cyxSEoGnKB497B7u3PBBB0ECFir+QP4xmc9Bw==",
   "notes": [
-    "🗳️ Haz una pregunta con 2 a 6 opciones y tus viewers votan escribiendo el número en el chat",
-    "📊 Las barras compiten en vivo con las fotos de los que van votando y una corona para el que va ganando",
-    "🔀 Aviso cuando otra opción pasa adelante",
-    "🎁 Un regalo multiplica tu voto (1 moneda = 1 voto extra)",
-    "🥁 Al cerrar: redoble, se apagan las que pierden y el ganador se ilumina con confeti",
-    "⚡ Votaciones rápidas de Sí / No y A / B / C con un toque, también desde el celular",
-    "🎮 ¡Ya son 18 juegos!"
+    "🧸 Cada viewer que comenta cae del cielo como un muñequito con su nombre y camina por abajo de tu pantalla",
+    "🖼️ La foto de perfil del viewer va en la cara del muñequito",
+    "💬 Lo que escriben sale en un globito sobre su muñequito",
+    "🎁 Con regalos: salta, baila, crece con corona o se vuelve gigante (según las monedas)",
+    "⭐ Los que te siguen se ganan un sombrero",
+    "🕹️ Cada viewer mueve al suyo con !saltar, !bailar y !hola"
   ],
   "fecha": "2026-11-07"
 }
