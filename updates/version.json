@@ -1,12 +1,16 @@
 {
-  "version": "2.0.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.0.1.zip",
-  "sha256": "88ccbea2978775fbd85e6cac97402f28e54b38e527703f58d163cdf70e2d92c1",
-  "sig": "O7D+NQGLC8f9W92GxtTPt4+3mSz16f1sNAEFxCqZeH6SW6BKnGjTmddruJZAbOFXsbgAQZQCZn3WdBRF0D+TDA==",
+  "version": "2.1.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.1.0.zip",
+  "sha256": "fb5d5311caa4f72f17d9c71d0e236c04419395cce1de2c6713c5e7eb72d24be2",
+  "sig": "Q6UhFIcoEkQO8nyt/HVVtbomkM3RwXO99SwQu32SHp8p1OTkwpLuaUBrD0OVnpRBtK1sl/L2oqyOE2dM2Qa6Dg==",
   "notes": [
-    "🔧 Después de actualizar, algunos ajustes de los juegos (Castillos, Pesca, Bomba…) podían salir en 0 o vacíos. Ya no pasa",
-    "🔄 El panel ahora espera a que el programa nuevo esté listo antes de recargarse",
-    "🛡️ Si una sección del panel tiene un problema, las demás siguen funcionando normal"
+    "🎰 Una máquina de casino con foquitos, palanca y 3 rodillos: cualquier regalo la hace girar",
+    "🪙 Tres iguales pagan puntos según el símbolo (y por cada moneda del regalo). Dos 🍒 también pagan",
+    "💰 7️⃣7️⃣7️⃣ se lleva el JACKPOT: un pozo que crece con cada giro, con sirenas y lluvia de monedas",
+    "😱 Si los dos primeros coinciden, el tercer rodillo frena lento con brillo y redoble",
+    "🎁 Más monedas en el regalo = premio más grande y más suerte. También se gira con !girar o con likes",
+    "⏳ Los giros esperan su turno en una fila",
+    "⚡ Nueva acción cuando sale el JACKPOT"
   ],
   "fecha": "2026-11-07"
 }
