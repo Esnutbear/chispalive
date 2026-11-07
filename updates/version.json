@@ -1,16 +1,16 @@
 {
-  "version": "2.2.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.2.0.zip",
-  "sha256": "aec805baf470de459085078464778daf4e3d2bea5b0c5ac99ce921a29ffac067",
-  "sig": "IricdzBZE+1lDqPeKqE4hLJZXmVxQMJKcc4bKFF3WuSG0JEFNlS+ZmQvg12eCwSn7yYyB2s7e8G+qlfFw+AJAw==",
+  "version": "2.3.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.3.0.zip",
+  "sha256": "36982c0dbdb366eb716f5a74c18b099fe4c78109f804bd24d47f22d3b3e86e19",
+  "sig": "3OBTugkwAgwMiItVCEAmixJmn17KQg14agJ4pZvPYMdpSveQfvZsFkHOk7LfNrVgM4mwc8BokAxFJINrYUrLBg==",
   "notes": [
-    "⚽ Tus viewers patean penales escribiendo !penal izq, !penal centro o !penal der",
-    "🧤 El arquero se tira a un lado: si adivina, ataja. A veces pega en el poste o se va afuera",
-    "🏟️ Estadio de noche con reflectores, tribuna que salta con los goles y la red que se infla",
-    "🎁 Los regalos son tiros potentes y los grandes son IMPARABLES, con bola de fuego",
-    "🔥 Racha: goles seguidos del mismo viewer valen más",
-    "🧤 Puedes ponerle nombre y color de camiseta al arquero",
-    "⚡ Nueva acción en cada gol"
+    "🗳️ Haz una pregunta con 2 a 6 opciones y tus viewers votan escribiendo el número en el chat",
+    "📊 Las barras compiten en vivo con las fotos de los que van votando y una corona para el que va ganando",
+    "🔀 Aviso cuando otra opción pasa adelante",
+    "🎁 Un regalo multiplica tu voto (1 moneda = 1 voto extra)",
+    "🥁 Al cerrar: redoble, se apagan las que pierden y el ganador se ilumina con confeti",
+    "⚡ Votaciones rápidas de Sí / No y A / B / C con un toque, también desde el celular",
+    "🎮 ¡Ya son 18 juegos!"
   ],
   "fecha": "2026-11-07"
 }
