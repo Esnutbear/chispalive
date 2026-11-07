@@ -1,17 +1,17 @@
 {
-  "version": "1.9.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-1.9.0.zip",
-  "sha256": "05bccccbae452ee3d5ca74c6da33dccf107c1f52f49c39696cf5016423a34b25",
-  "sig": "g849A4KC4A8oFqXY/QTP6Mmv6NVh6YKYLS+qg3VePewARXVEgQLp5gYV5Du4xyWHfDg4DtA8zvxft2QBLWlYDQ==",
+  "version": "2.0.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.0.0.zip",
+  "sha256": "34adc2bdc0d0a3da6144e5786a338a3f59c44d11ae92641c45b0283b3412f083",
+  "sig": "hUne6zTKB/rnIHTi1fXCMqst3MNCIIQqpGKt3i7807zY2rjywK7de9QOyfWJylKFBaUGucPgV1/8okYvh/VnCA==",
   "notes": [
-    "🎣 Tus viewers escriben !pescar y su boya cae al lago con su nombre",
-    "❗ La boya tiembla, se hunde y sale lo que picó: basura, peces, criaturas épicas, legendarias o un tesoro",
-    "🎁 Un regalo es mejor carnada: más monedas, más suerte. Los grandes sacan sí o sí algo legendario",
-    "🦈 Lo épico y lo legendario sale en grande al centro, con su peso, sus puntos y el «¡NUEVO RÉCORD!»",
-    "🌊 Cada cierto tiempo llega un banco de peces y todo vale el doble",
-    "💨 A veces el pez rompe la línea y se escapa",
-    "🏆 Récord del pez más pesado, tabla de pescadores y modo torneo con tiempo",
-    "⚡ Nueva acción cuando alguien pesca algo legendario"
+    "💣 Los viewers entran con !jugar y quedan en un círculo con su foto",
+    "🧨 La bomba le cae a uno con una mecha secreta. Tiene que pasarla con !pasar (o !pasar @nombre) antes de que explote",
+    "🔥 Mientras más se acerca la explosión, la bomba se pone roja, tiembla, el tic-tac se acelera y la arena entera se pone roja",
+    "💥 Al que le explota sale volando y queda fuera. El último que queda gana la corona",
+    "🎁 Si tienes la bomba, cualquier regalo o unos likes la pasan",
+    "🛡️ El regalo de escudo hace que la bomba te rebote la próxima vez",
+    "⚡ Nueva acción cuando alguien gana la bomba caliente",
+    "🎮 ¡Ya son 15 juegos!"
   ],
   "fecha": "2026-11-07"
 }
