@@ -1,15 +1,15 @@
 {
-  "version": "2.4.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.4.0.zip",
-  "sha256": "02961d865ce3aeafbc72712f2dd99d64100bd975875d53ee50edafd10fe080ae",
-  "sig": "+KF1yZVAOuDVP60gRvDZSBKFKyDqIje4Y0qnBOJFoIBZUMm48cyxSEoGnKB497B7u3PBBB0ECFir+QP4xmc9Bw==",
+  "version": "2.5.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.5.0.zip",
+  "sha256": "29e227d76578aa35a397d0a6c749da785ce34deb53d55aa8ab0afa4193660341",
+  "sig": "1L93e9+1OYyUcO0UlqpUNQd0fOu6rO0VbiSowhiTgLGYbhhaXqlUXPYeTbyT8JZ4PZl3MOZjYKiNjauJRmFCBQ==",
   "notes": [
-    "🧸 Cada viewer que comenta cae del cielo como un muñequito con su nombre y camina por abajo de tu pantalla",
-    "🖼️ La foto de perfil del viewer va en la cara del muñequito",
-    "💬 Lo que escriben sale en un globito sobre su muñequito",
-    "🎁 Con regalos: salta, baila, crece con corona o se vuelve gigante (según las monedas)",
-    "⭐ Los que te siguen se ganan un sombrero",
-    "🕹️ Cada viewer mueve al suyo con !saltar, !bailar y !hola"
+    "🎟️ Abre un sorteo con el premio que quieras y tus viewers se anotan escribiendo !sorteo",
+    "🎡 Al sortear gira una ruleta con sus nombres (o los nombres pasan rápido hasta parar)",
+    "🎫 Los regalos dan boletos extra: más boletos, más chance",
+    "⭐ Puedes dejar entrar a todos, solo a los que te siguen o solo a los que mandaron regalo",
+    "✅ El ganador escribe en el chat para confirmar que está. Si no aparece, se sortea otra vez solo",
+    "📱 También lo manejas desde el celular"
   ],
   "fecha": "2026-11-07"
 }
