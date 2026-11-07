@@ -1,16 +1,16 @@
 {
-  "version": "2.1.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.1.0.zip",
-  "sha256": "fb5d5311caa4f72f17d9c71d0e236c04419395cce1de2c6713c5e7eb72d24be2",
-  "sig": "Q6UhFIcoEkQO8nyt/HVVtbomkM3RwXO99SwQu32SHp8p1OTkwpLuaUBrD0OVnpRBtK1sl/L2oqyOE2dM2Qa6Dg==",
+  "version": "2.2.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.2.0.zip",
+  "sha256": "aec805baf470de459085078464778daf4e3d2bea5b0c5ac99ce921a29ffac067",
+  "sig": "IricdzBZE+1lDqPeKqE4hLJZXmVxQMJKcc4bKFF3WuSG0JEFNlS+ZmQvg12eCwSn7yYyB2s7e8G+qlfFw+AJAw==",
   "notes": [
-    "🎰 Una máquina de casino con foquitos, palanca y 3 rodillos: cualquier regalo la hace girar",
-    "🪙 Tres iguales pagan puntos según el símbolo (y por cada moneda del regalo). Dos 🍒 también pagan",
-    "💰 7️⃣7️⃣7️⃣ se lleva el JACKPOT: un pozo que crece con cada giro, con sirenas y lluvia de monedas",
-    "😱 Si los dos primeros coinciden, el tercer rodillo frena lento con brillo y redoble",
-    "🎁 Más monedas en el regalo = premio más grande y más suerte. También se gira con !girar o con likes",
-    "⏳ Los giros esperan su turno en una fila",
-    "⚡ Nueva acción cuando sale el JACKPOT"
+    "⚽ Tus viewers patean penales escribiendo !penal izq, !penal centro o !penal der",
+    "🧤 El arquero se tira a un lado: si adivina, ataja. A veces pega en el poste o se va afuera",
+    "🏟️ Estadio de noche con reflectores, tribuna que salta con los goles y la red que se infla",
+    "🎁 Los regalos son tiros potentes y los grandes son IMPARABLES, con bola de fuego",
+    "🔥 Racha: goles seguidos del mismo viewer valen más",
+    "🧤 Puedes ponerle nombre y color de camiseta al arquero",
+    "⚡ Nueva acción en cada gol"
   ],
   "fecha": "2026-11-07"
 }
