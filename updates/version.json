@@ -1,10 +1,15 @@
 {
-  "version": "2.8.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.8.1.zip",
-  "sha256": "93a8e558283ebc297d1fc0c4171e6f638d080ea41226752fa437f31fa6e28c5e",
-  "sig": "YZQ0vInXawZXVkJZ7O4QkHAFat9wCoOw8lPAmkQJB1hutWR9POGEDHu3CoYzfLZac++Byr6ZAf3IvSh9sfBZDw==",
+  "version": "2.9.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.9.0.zip",
+  "sha256": "e59a393d868fc4e4afea16ad7ff9366d05c0926002035102e41484a7c803d238",
+  "sig": "1eXEGzgdT1SspLY7DvnBeaLyEdF6Qvfqia4YSmaTc+eyu/ufgQ1ZMnDc+WEQbcdluLOV2b1DmqzcyJZAGSyoAQ==",
   "notes": [
-    "💎 A veces la página de Licencia salía vacía y no se veían las etiquetas PRO. Ya carga siempre."
+    "💰 Una página nueva que pasa las monedas de tus lives a soles o dólares",
+    "📊 Gráfico por días, semanas y meses (pasa el mouse por una barra para ver el detalle)",
+    "☀️ Ves lo de hoy, esta semana, este mes, el total y tu mejor día",
+    "🎯 Ponle una meta al mes y te dice cuánto te falta y con cuánto cerrarías el mes",
+    "⚙️ Tú ajustas cuánto te paga TikTok por cada 1000 monedas, el tipo de cambio y lo que se queda tu agencia",
+    "🧪 Las pruebas del simulador no cuentan, solo los regalos de tus lives de verdad"
   ],
-  "fecha": "2026-11-07"
+  "fecha": "2026-11-08"
 }
