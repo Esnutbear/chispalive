@@ -1,13 +1,15 @@
 {
-  "version": "2.10.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.10.0.zip",
-  "sha256": "40f73fe0cceba4e0641494b9081317fad89e69efa928a7a26718699e1d4df2fe",
-  "sig": "1s599SznThABBz/zz49E3IgUIsAsTpPgiiOH9PwOstAgVjNvL/ev5bi1m9akA6XRjuvkmVtIKiGbMg1o1Z1/Ag==",
+  "version": "2.11.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.11.0.zip",
+  "sha256": "099be85537a4fb18c2cc8d189868d8f7de8bbe6c22d6cbea9c5a9cbefe4e05e1",
+  "sig": "5EndWUbZP9dE5TLBP/tPKM1qvg753KK0PNYyU9ilVuR+Tw+J5ZIyZHtbVaw8PTdfXLiWpuwyCSRzG9EnFXbTCg==",
   "notes": [
-    "📦 Una página nueva, Plantillas, en el menú de Inicio",
-    "✨ 5 plantillas listas: Gaming, Charla, Subastas y sorteos, Juegos con el chat, y PK y batallas. Prenden lo que va con ese live y apagan lo demás",
-    "💾 Mis plantillas: guarda cómo tienes todo y vuelve a ponerlo con un clic",
-    "🚚 Pasar a otra PC: descargas un paquete con tu configuración, tus imágenes, GIFs y sonidos, y lo cargas en la otra computadora"
+    "⭐ Tus viewers ganan puntos por mirar, comentar, dar likes, seguirte, compartir y regalar",
+    "🏅 Con los puntos suben de nivel (Nuevo, Fan, Súper fan, Fiel, Leyenda, Rey del live) y sale en pantalla con su foto",
+    "🎁 Canjes: escriben un comando (ej. !sonido) y, si les alcanza, se hacen las Acciones que tú elijas",
+    "💬 Comandos para el chat: !puntos, !top y !canjes",
+    "🎀 Puedes dar o quitar puntos a mano, y todo se guarda de un live a otro",
+    "⚡ En Acciones hay dos eventos nuevos: Alguien sube de nivel y Alguien canjea puntos"
   ],
   "fecha": "2026-11-08"
 }
