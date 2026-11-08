@@ -1,15 +1,11 @@
 {
-  "version": "2.12.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.12.0.zip",
-  "sha256": "ae94a3308520f5c82610d20d86438cc22f99f2aba42c637f192db5baa3715fdf",
-  "sig": "xIeO/jMofHnaOFs9bAHVEvEMuNx3C+dTggMh9/IH7WvLgOAshczmgPZX61Mh4v1tr2MQ4ZzEdyEyJkJJUBrHDQ==",
+  "version": "2.12.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.12.1.zip",
+  "sha256": "c7e182194f3551956830643fcd06ed3eb0f395231682b1fb31e345e9217fe522",
+  "sig": "Vn1pBWV9NyC2P4GtOI5/MBZG1lqeH28IkqBAsW0twPe3zfQD9b5jg81egGDlMIYX56W1nyvw9jrCR+zOCEZtAQ==",
   "notes": [
-    "🗼 Cada regalo apila un bloque con la foto de quien lo mandó. Si la torre llega a la meta, gana todo el live",
-    "🦁 Los regalos grandes caen como bloques gigantes, con temblor y polvo",
-    "🫨 La torre se tambalea con regalos grandes y los likes la sostienen. Si se mueve demasiado, se cae la parte de arriba",
-    "📈 Al llegar a la meta sube de nivel y la siguiente torre es más alta",
-    "🎨 Tres diseños: Colores, Neón y Oro",
-    "⚡ En Acciones hay un evento nuevo: La torre llega a la meta"
+    "🔇 Las vistas previas del panel ahora van en silencio: los sonidos de los juegos solo salen en tu live (OBS / TikTok LIVE Studio)",
+    "🔊 Si quieres escucharlos también en el panel, toca el botón 🔇 de arriba (al lado de ES / EN)"
   ],
   "fecha": "2026-11-08"
 }
