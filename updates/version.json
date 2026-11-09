@@ -1,16 +1,15 @@
 {
-  "version": "2.13.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.13.0.zip",
-  "sha256": "32724eb629b8dcad576914f8a5c78144253e7a6a5c74a0bb9630161a6b5cf906",
-  "sig": "4bG0+U/3sZnpRk86xNGkXK9C2ziOy+V7ei+rf/OEsqbirLCjhsDHdiIjU9RwUpL/SvQ/XJ2oSe3bQIch1JLFDw==",
+  "version": "2.14.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.14.0.zip",
+  "sha256": "24cd1edda45e769e2e79f14ee380ad6f1c98f1c03d0d46116965c7d2ffa305b6",
+  "sig": "dGHco1rBS+v4RyEw6JltMLIIoK8DB+bruP4SHnbb58cdQgR3NxXUj7y0Yq4JzvzJG6iRpjBsUBf2jdG1sJeXDQ==",
   "notes": [
-    "🛡️ Si alguien escribe una grosería, no sale en pantalla, la voz no la lee y no dispara Acciones ni juegos",
-    "🕵️ La pilla aunque la escriban con puntos, letras repetidas o números (p.u.t.a, puuuta, put4)",
-    "✳️ Tú eliges: ocultar todo el mensaje o solo tapar la palabra con ****",
-    "✍️ Agrega tus propias palabras prohibidas, y las que sí quieres permitir",
-    "🔇 Silencia a un usuario con un toque desde la lista de ocultos",
-    "🔗 Los links se cambian por 🔗 y los nombres con groserías salen tapados",
-    "👀 En Eventos en vivo ves lo oculto tachado, para saber qué pasó"
+    "📌 Toca un comentario en Eventos en vivo y sale grande en tu stream, con la foto de quien lo escribió",
+    "📱 También funciona desde el celular: toca el comentario en \"Lo último del live\"",
+    "✖ Tócalo otra vez para quitarlo, o deja que se vaya solo cuando se acabe el tiempo",
+    "🎨 Tres diseños: Tarjeta, Burbuja y Neón",
+    "🛡️ Los mensajes que el filtro ocultó nunca se pueden destacar",
+    "🔗 Agrega el overlay en OBS desde Widgets → Mensaje destacado"
   ],
   "fecha": "2026-11-09"
 }
