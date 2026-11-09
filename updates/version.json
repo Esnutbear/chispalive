@@ -1,15 +1,18 @@
 {
-  "version": "2.14.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.14.0.zip",
-  "sha256": "24cd1edda45e769e2e79f14ee380ad6f1c98f1c03d0d46116965c7d2ffa305b6",
-  "sig": "dGHco1rBS+v4RyEw6JltMLIIoK8DB+bruP4SHnbb58cdQgR3NxXUj7y0Yq4JzvzJG6iRpjBsUBf2jdG1sJeXDQ==",
+  "version": "2.15.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.15.0.zip",
+  "sha256": "83adc5bf8658805570ee5041c36100f5d447ebc407a3a91fce5743f37d522c10",
+  "sig": "jlQZ58zWAKxnoBSJLPDQ5ayO2XI6ur0pR7Mukg+QrXDQGC0XZG+MxJbsusdDNNc3XQYqNRu2Fwrg/VQ5aPpRDg==",
   "notes": [
-    "📌 Toca un comentario en Eventos en vivo y sale grande en tu stream, con la foto de quien lo escribió",
-    "📱 También funciona desde el celular: toca el comentario en \"Lo último del live\"",
-    "✖ Tócalo otra vez para quitarlo, o deja que se vaya solo cuando se acabe el tiempo",
-    "🎨 Tres diseños: Tarjeta, Burbuja y Neón",
-    "🛡️ Los mensajes que el filtro ocultó nunca se pueden destacar",
-    "🔗 Agrega el overlay en OBS desde Widgets → Mensaje destacado"
+    "🛍️ Cambia el look de todos tus juegos y widgets de una vez, con un toque",
+    "🎄 Navidad: nieve cayendo y colores rojo, verde y dorado",
+    "🎃 Halloween: murciélagos volando y telarañas",
+    "🌸 Anime: pétalos de sakura y colores pastel",
+    "🎆 Año Nuevo: brillos dorados para la cuenta regresiva",
+    "💘 San Valentín: corazones flotando",
+    "📅 Modo automático: se pone solo el diseño de la temporada según la fecha",
+    "⚙️ Eliges qué cambia: colores, letra, adornos y efectos, y cuántos efectos salen",
+    "✅ Incluido en Básico y Pro, sin pagar nada extra"
   ],
   "fecha": "2026-11-09"
 }
