@@ -1,11 +1,16 @@
 {
-  "version": "2.12.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.12.1.zip",
-  "sha256": "c7e182194f3551956830643fcd06ed3eb0f395231682b1fb31e345e9217fe522",
-  "sig": "Vn1pBWV9NyC2P4GtOI5/MBZG1lqeH28IkqBAsW0twPe3zfQD9b5jg81egGDlMIYX56W1nyvw9jrCR+zOCEZtAQ==",
+  "version": "2.13.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.13.0.zip",
+  "sha256": "32724eb629b8dcad576914f8a5c78144253e7a6a5c74a0bb9630161a6b5cf906",
+  "sig": "4bG0+U/3sZnpRk86xNGkXK9C2ziOy+V7ei+rf/OEsqbirLCjhsDHdiIjU9RwUpL/SvQ/XJ2oSe3bQIch1JLFDw==",
   "notes": [
-    "🔇 Las vistas previas del panel ahora van en silencio: los sonidos de los juegos solo salen en tu live (OBS / TikTok LIVE Studio)",
-    "🔊 Si quieres escucharlos también en el panel, toca el botón 🔇 de arriba (al lado de ES / EN)"
+    "🛡️ Si alguien escribe una grosería, no sale en pantalla, la voz no la lee y no dispara Acciones ni juegos",
+    "🕵️ La pilla aunque la escriban con puntos, letras repetidas o números (p.u.t.a, puuuta, put4)",
+    "✳️ Tú eliges: ocultar todo el mensaje o solo tapar la palabra con ****",
+    "✍️ Agrega tus propias palabras prohibidas, y las que sí quieres permitir",
+    "🔇 Silencia a un usuario con un toque desde la lista de ocultos",
+    "🔗 Los links se cambian por 🔗 y los nombres con groserías salen tapados",
+    "👀 En Eventos en vivo ves lo oculto tachado, para saber qué pasó"
   ],
-  "fecha": "2026-11-08"
+  "fecha": "2026-11-09"
 }
