@@ -1,18 +1,14 @@
 {
-  "version": "2.15.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.15.0.zip",
-  "sha256": "83adc5bf8658805570ee5041c36100f5d447ebc407a3a91fce5743f37d522c10",
-  "sig": "jlQZ58zWAKxnoBSJLPDQ5ayO2XI6ur0pR7Mukg+QrXDQGC0XZG+MxJbsusdDNNc3XQYqNRu2Fwrg/VQ5aPpRDg==",
+  "version": "2.16.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.16.0.zip",
+  "sha256": "3f9c69682da1c0f364e0e3d095fbd13f5dbfd1781dbf6f677bce7522f86467dc",
+  "sig": "am9QT6UU8xQ6wYz2c2+/ye75anGzTQe3ZAcbTWJFeU2IrGHIS0gb1mietA4miPU8opCSY+Y5munToYqpxM69Bw==",
   "notes": [
-    "🛍️ Cambia el look de todos tus juegos y widgets de una vez, con un toque",
-    "🎄 Navidad: nieve cayendo y colores rojo, verde y dorado",
-    "🎃 Halloween: murciélagos volando y telarañas",
-    "🌸 Anime: pétalos de sakura y colores pastel",
-    "🎆 Año Nuevo: brillos dorados para la cuenta regresiva",
-    "💘 San Valentín: corazones flotando",
-    "📅 Modo automático: se pone solo el diseño de la temporada según la fecha",
-    "⚙️ Eliges qué cambia: colores, letra, adornos y efectos, y cuántos efectos salen",
-    "✅ Incluido en Básico y Pro, sin pagar nada extra"
+    "▶ Cada juego y widget tiene un botón \"Ver cómo funciona\" con un video cortito del juego en acción",
+    "📋 Debajo del video te explica en 3 pasos cómo ponerlo en OBS, ajustarlo y probarlo",
+    "🔗 Desde ahí mismo puedes copiar el link para OBS",
+    "🎬 29 videos: todos los juegos y widgets",
+    "📡 Los videos se cargan de internet, así la app no pesa más"
   ],
-  "fecha": "2026-11-09"
+  "fecha": "2026-11-13"
 }
