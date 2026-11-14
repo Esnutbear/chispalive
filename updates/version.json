@@ -1,13 +1,14 @@
 {
-  "version": "2.23.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.23.0.zip",
-  "sha256": "44adfa2c628d5e47bb45bc21381665e0d61d7f10d715543ea447d287a1eb947c",
-  "sig": "j0CRzf46qxaQY1Dpi22Sa5sCS2yc8xtRxuAmiqk6RddhCLhzEaVt3RhtfnceYurPwOpyyEUl4G7xhQ5uPaP8AQ==",
+  "version": "2.24.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.24.0.zip",
+  "sha256": "3022d8e2cc11bc5c7d9a310ffb3509aff31c3da82dad598d94a82b66203dceaa",
+  "sig": "CyzE8LQnk9J0ywUdc2wUTLIR4ZA+SG1SuCr5kcFhZMOmzO7Ex0qNmDqdJuuBmeOmiufL8GAraUirhFGhLbEVBg==",
   "notes": [
-    "💣 Bomba caliente: arena con ondas de calor que laten, fotos con aro dorado y la bomba con resplandor",
-    "🎣 Pesca: el sol brilla de verdad y se refleja en el agua, con luz de atardecer",
-    "🔤 Adivina la palabra: fichas con relieve y un destello que las cruza; las letras abiertas brillan",
-    "🏰 Guerra de castillos: sol con resplandor, luz cálida, castillos con sombra y barras de vida con relieve"
+    "🎟️ Sorteo: rayos dorados de fondo, premio con brillo, botón de entrar que late y fotos de participantes con aro dorado flotando",
+    "⭐ Puntos y niveles: rayos girando detrás de la foto, barra de XP más grande con brillo y el 1er lugar del top en dorado",
+    "🧸 Muñequitos del chat: cuerpos con sombra y brillo, y etiquetas de nombre con relieve",
+    "⏰ Subathon: reloj de fichas, cada número en su casilla con luz dorada y los dos puntos parpadeando; se pone rojo en el último minuto",
+    "💖 Meta de corazón: rayos de luz girando detrás y un resplandor que late con el corazón"
   ],
   "fecha": "2026-11-14"
 }
