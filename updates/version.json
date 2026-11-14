@@ -1,8 +1,8 @@
 {
-  "version": "2.25.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.25.0.zip",
-  "sha256": "c2af9d20099ede4967366cce33a8248bfab707d7d63229dc494b339e586330e1",
-  "sig": "0co9TTw3Jr3gbyauwvYfyzOkU83fa28rgkoU9jJaIvhjx8H3SKyrFc2r+NIGIXd2VlcRvZrEomz1aXDudkDSBw==",
+  "version": "2.25.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.25.1.zip",
+  "sha256": "f302079d0317ae269439d25994f596fc598d6225a8360ee0876d43f6c00466dd",
+  "sig": "39zLBlFrTxkFB13p1cG/I/L9nGOtroZa+/QHCMdIYBy5SAlnSygG1d0Bfzoi2FAVjZ6qbfE97e4ddcf/RHnQCw==",
   "notes": [
     "🏰 Castillos: fogonazo y humo en el cañón, balas que crecen con el regalo (bala, bala grande y bomba con chispas)",
     "☄️ La bola de fuego ahora cae del cielo, oscurece la pantalla y deja el castillo en llamas",
