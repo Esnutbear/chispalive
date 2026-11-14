@@ -1,14 +1,12 @@
 {
-  "version": "2.21.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.21.0.zip",
-  "sha256": "be54ddfbd590b94592afb25f7567d56952f25e37a28b620f53995c7886e142b4",
-  "sig": "o6IQ0IEcp34H0Oj87MFtKziRqFkMT6FcSLC9Cyb2JAh/wCf2qSQlGkdzIYQv+sxcDHHsA0Y+Z9BgZsMaqRB+DA==",
+  "version": "2.22.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.22.0.zip",
+  "sha256": "ca6b251e5680d7ad8188e1998261ca433be14ac5e00c93a38619aa48ef2ea946",
+  "sig": "d9tD42s1WMtH/nH/Hwi8T4MHDM9+oLyzp4oY6lTi6/VRkgGdZC+SUiCSU0kDf1TZbP8vX08W4Op+Hd6U06jxDg==",
   "notes": [
-    "🌟 La mascota ahora tiene su escenario: plataforma brillante y lucecitas flotando",
-    "☀️ Desde la etapa Adulta, rayos de luz giran detrás de ella. Si es Legendaria, son dorados",
-    "🥚 Camino de evolución a la vista: 🥚 → 🐣 → ✨ → 🔥 → 👑",
-    "👑 Cuando es Legendaria, su nombre sale en dorado y la barra de XP en oro con brillo",
-    "😊 El ánimo y el top de donadores ahora salen en fichitas, con la foto de cada uno"
+    "🗳️ Votación: barras con relieve y brillo, y una luz que recorre el borde de la opción que va ganando",
+    "⚽ Penales: estadio de noche con estrellas, letrero LED que corre y flashes de cámaras en la tribuna (muchos más cuando hay gol)",
+    "🎰 Tragamonedas: marco de oro, rodillos con borde cromado y reflejo de vidrio, flechas en la línea de premio y aura brillante"
   ],
   "fecha": "2026-11-14"
 }
