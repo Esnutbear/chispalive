@@ -1,12 +1,15 @@
 {
-  "version": "2.17.2",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.17.2.zip",
-  "sha256": "2b221023ff44bc47e3394b3d783b88e01fb9b8fbb6c4c2f8e3dad8e0fe563f13",
-  "sig": "TdsE4x7hPRqYEvO7v6Azd1xNsSlAUJGqG6MWKZJmbMst5GkjImYy58bp6qUNtg2IIpggQPuZzqGDlnLsJ4ZgAg==",
+  "version": "2.18.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.18.0.zip",
+  "sha256": "b97daca34c95bf8aa099a498c342a2b64245f6b88a274da2392451ea6ab36278",
+  "sig": "lsNrsb4kkbYS8AV9kQ5c5zxN2DdNDTvM5wBYJ2H7W9KTA5i0DuHlFTit9kjIiJaL63ts84edR7CmM875xL+MBw==",
   "notes": [
-    "🫙 Cuando el frasco se llena hasta el borde, los regalos nuevos rebalsan, ruedan por el borde y caen por fuera como una cascada",
-    "🧊 Los regalos de adentro se quedan quietos, sin temblar",
-    "💎 Ningún regalo se achica ni desaparece del frasco"
+    "💎 Nuevo diseño Cristal: un jarrón con brillo, borde escarchado y destellos",
+    "🌹 Regalitos más chicos: entran cientos, y una Rose x30 suelta hasta 20",
+    "🌊 Cuando se llena hasta la boca, rebalsa: los regalos ruedan por el borde y se amontonan en el piso a los dos lados",
+    "🧊 Los de adentro se quedan quietos, sin temblar",
+    "⚡ Más fluido aunque haya cientos de regalos en pantalla",
+    "🎨 Funciona con todos los diseños: Cristal, Vidrio, Neón, Cofre, Caldero y Pecera"
   ],
   "fecha": "2026-11-14"
 }
