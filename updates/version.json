@@ -1,14 +1,11 @@
 {
-  "version": "2.16.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.16.0.zip",
-  "sha256": "3f9c69682da1c0f364e0e3d095fbd13f5dbfd1781dbf6f677bce7522f86467dc",
-  "sig": "am9QT6UU8xQ6wYz2c2+/ye75anGzTQe3ZAcbTWJFeU2IrGHIS0gb1mietA4miPU8opCSY+Y5munToYqpxM69Bw==",
+  "version": "2.16.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.16.1.zip",
+  "sha256": "1b2ff9ecf078b93b21e17c0bc0de88fd486bc810e9e8ff288f43faf8a8e29e16",
+  "sig": "u1FeTNqAb3A0FpjmTQATSOG2mGE5jOK8JtLcS7x4cJPDyjKjIcf1mzUskTy+0nZG4PYM11X0YGcxS6lrCC/QBw==",
   "notes": [
-    "▶ Cada juego y widget tiene un botón \"Ver cómo funciona\" con un video cortito del juego en acción",
-    "📋 Debajo del video te explica en 3 pasos cómo ponerlo en OBS, ajustarlo y probarlo",
-    "🔗 Desde ahí mismo puedes copiar el link para OBS",
-    "🎬 29 videos: todos los juegos y widgets",
-    "📡 Los videos se cargan de internet, así la app no pesa más"
+    "⭐ El regalo \"Tu comunidad\" siempre es el de la cuenta que conectaste",
+    "🔄 Si cambias de cuenta de TikTok, se quita el regalo de la cuenta anterior al instante y sale el tuyo apenas entres a tu live"
   ],
-  "fecha": "2026-11-13"
+  "fecha": "2026-11-14"
 }
