@@ -1,14 +1,18 @@
 {
-  "version": "2.24.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.24.0.zip",
-  "sha256": "3022d8e2cc11bc5c7d9a310ffb3509aff31c3da82dad598d94a82b66203dceaa",
-  "sig": "CyzE8LQnk9J0ywUdc2wUTLIR4ZA+SG1SuCr5kcFhZMOmzO7Ex0qNmDqdJuuBmeOmiufL8GAraUirhFGhLbEVBg==",
+  "version": "2.25.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.25.0.zip",
+  "sha256": "c2af9d20099ede4967366cce33a8248bfab707d7d63229dc494b339e586330e1",
+  "sig": "0co9TTw3Jr3gbyauwvYfyzOkU83fa28rgkoU9jJaIvhjx8H3SKyrFc2r+NIGIXd2VlcRvZrEomz1aXDudkDSBw==",
   "notes": [
-    "🎟️ Sorteo: rayos dorados de fondo, premio con brillo, botón de entrar que late y fotos de participantes con aro dorado flotando",
-    "⭐ Puntos y niveles: rayos girando detrás de la foto, barra de XP más grande con brillo y el 1er lugar del top en dorado",
-    "🧸 Muñequitos del chat: cuerpos con sombra y brillo, y etiquetas de nombre con relieve",
-    "⏰ Subathon: reloj de fichas, cada número en su casilla con luz dorada y los dos puntos parpadeando; se pone rojo en el último minuto",
-    "💖 Meta de corazón: rayos de luz girando detrás y un resplandor que late con el corazón"
+    "🏰 Castillos: fogonazo y humo en el cañón, balas que crecen con el regalo (bala, bala grande y bomba con chispas)",
+    "☄️ La bola de fuego ahora cae del cielo, oscurece la pantalla y deja el castillo en llamas",
+    "🏹 Lluvia de 6 flechas con cada tanda de likes",
+    "🔊 12 sonidos de batalla nuevos: cañonazo, impacto en piedra, flechas, meteorito, rugido de dragón, escudo, choque metálico, martillazos, derrumbe y cuerno de guerra",
+    "🌄 Escenario nuevo: montañas nevadas, rayos de sol, aves, y castillos con sombra y ventanas encendidas",
+    "🛍️ Tienda de diseños: cada regalo hace explotar adornos del diseño (regalos, calabazas, pétalos, fuegos, corazones)",
+    "🎵 Cada diseño tiene su sonido: cascabeles, risa tenebrosa, brillitos, fuegos artificiales y corazón",
+    "🎅 Momentos sorpresa: pasa el trineo de Papá Noel, un fantasma, una estrella fugaz, fuegos artificiales o Cupido",
+    "🎁 Botón para probar los efectos en tus overlays y 🔊 para escuchar cada diseño antes de elegirlo"
   ],
   "fecha": "2026-11-14"
 }
