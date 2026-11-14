@@ -1,11 +1,16 @@
 {
-  "version": "2.16.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.16.1.zip",
-  "sha256": "1b2ff9ecf078b93b21e17c0bc0de88fd486bc810e9e8ff288f43faf8a8e29e16",
-  "sig": "u1FeTNqAb3A0FpjmTQATSOG2mGE5jOK8JtLcS7x4cJPDyjKjIcf1mzUskTy+0nZG4PYM11X0YGcxS6lrCC/QBw==",
+  "version": "2.17.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.17.0.zip",
+  "sha256": "5018bce7a4edcdbffc37cb200c6ba33eb7695eb24d6068097ea91bfc40e0c624",
+  "sig": "X4/6gfIeBBFihRIW2VL623aa+HWFgq4Ym7V2hergX+MT8M7Bmo7ig19Xc8L38+UpQHwOHlB8bQ2y4QCE/q5+DA==",
   "notes": [
-    "⭐ El regalo \"Tu comunidad\" siempre es el de la cuenta que conectaste",
-    "🔄 Si cambias de cuenta de TikTok, se quita el regalo de la cuenta anterior al instante y sale el tuyo apenas entres a tu live"
+    "💎 Todas las tarjetas con más profundidad: luz arriba, borde dorado metálico y un destello que las cruza cada tanto",
+    "🥇 El 1er lugar ahora va en dorado en la Subasta, el Top y la Trivia",
+    "✨ Barras de vida, tiempo y progreso con brillo y un reflejo que las recorre",
+    "🔘 Opciones, filas y fichas con relieve, para que no se vean planas",
+    "🖼️ El Frasco de regalos ahora se dibuja en HD",
+    "🎨 Si prefieres el look de antes: Mi estilo → Acabado → Clásico",
+    "🔧 En OBS viejos, la Carrera, la Votación y los Castillos ya no pierden sus colores"
   ],
   "fecha": "2026-11-14"
 }
