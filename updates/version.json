@@ -1,15 +1,15 @@
 {
-  "version": "2.18.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.18.0.zip",
-  "sha256": "b97daca34c95bf8aa099a498c342a2b64245f6b88a274da2392451ea6ab36278",
-  "sig": "lsNrsb4kkbYS8AV9kQ5c5zxN2DdNDTvM5wBYJ2H7W9KTA5i0DuHlFTit9kjIiJaL63ts84edR7CmM875xL+MBw==",
+  "version": "2.19.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.19.0.zip",
+  "sha256": "81cef69b358f38f61acc4a6d013ea4c207d2f1a37bb80a1d8899873d36f88ec8",
+  "sig": "YtlxOa4LPP3ZVl7CIMj5A2+SirgJCVjSdF9S5u3RQP2NOyRpoXkRTvpRKEt4X7KV7DmHfT50O2zqweyQsUvlAw==",
   "notes": [
-    "💎 Nuevo diseño Cristal: un jarrón con brillo, borde escarchado y destellos",
-    "🌹 Regalitos más chicos: entran cientos, y una Rose x30 suelta hasta 20",
-    "🌊 Cuando se llena hasta la boca, rebalsa: los regalos ruedan por el borde y se amontonan en el piso a los dos lados",
-    "🧊 Los de adentro se quedan quietos, sin temblar",
-    "⚡ Más fluido aunque haya cientos de regalos en pantalla",
-    "🎨 Funciona con todos los diseños: Cristal, Vidrio, Neón, Cofre, Caldero y Pecera"
+    "🧱 Nuevo diseño Bloques: ladrillos 3D de juguete con botoncitos",
+    "📦 Todos los bloques ahora son 3D, con tapa, costado y sombra, y se lee bien el nombre y la foto de quien regaló",
+    "🎥 La cámara sube con la torre: los bloques ya no se achican a rayitas",
+    "📏 Altímetro y regla de altura para ver cuánto falta para la meta",
+    "💥 Cada bloque aterriza con rebote y polvo, y los grandes hacen temblar la pantalla",
+    "✨ El último bloque brilla para que se vea quién acaba de regalar"
   ],
   "fecha": "2026-11-14"
 }
