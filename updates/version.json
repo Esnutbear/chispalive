@@ -1,14 +1,14 @@
 {
-  "version": "2.20.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.20.0.zip",
-  "sha256": "e518101059e792f55698ea073f1f80044ce7d27054b0318b420a21fc15af88f8",
-  "sig": "ZjzBcX6wo8WLspq4VGVF1gS7gII7uXEsIaeOebOq1yydmVJSxyajXi8F5z6XLzrUQdW4ispWamJzU5UgsHhrBQ==",
+  "version": "2.21.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.21.0.zip",
+  "sha256": "be54ddfbd590b94592afb25f7567d56952f25e37a28b620f53995c7886e142b4",
+  "sig": "o6IQ0IEcp34H0Oj87MFtKziRqFkMT6FcSLC9Cyb2JAh/wCf2qSQlGkdzIYQv+sxcDHHsA0Y+Z9BgZsMaqRB+DA==",
   "notes": [
-    "🏁 Cada carril parece una pista de carreras, con el color de su animal",
-    "🌈 Una estela de color muestra cuánto avanzó cada animal",
-    "🥇 Medallas de puesto en vivo: 1º oro, 2º plata y 3º bronce",
-    "🐎 Los animales galopan todo el tiempo, con sombra en el piso y líneas de velocidad cuando avanzan",
-    "🏁 La meta brilla y la bandera ondea"
+    "🌟 La mascota ahora tiene su escenario: plataforma brillante y lucecitas flotando",
+    "☀️ Desde la etapa Adulta, rayos de luz giran detrás de ella. Si es Legendaria, son dorados",
+    "🥚 Camino de evolución a la vista: 🥚 → 🐣 → ✨ → 🔥 → 👑",
+    "👑 Cuando es Legendaria, su nombre sale en dorado y la barra de XP en oro con brillo",
+    "😊 El ánimo y el top de donadores ahora salen en fichitas, con la foto de cada uno"
   ],
   "fecha": "2026-11-14"
 }
