@@ -1,12 +1,13 @@
 {
-  "version": "2.22.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.22.0.zip",
-  "sha256": "ca6b251e5680d7ad8188e1998261ca433be14ac5e00c93a38619aa48ef2ea946",
-  "sig": "d9tD42s1WMtH/nH/Hwi8T4MHDM9+oLyzp4oY6lTi6/VRkgGdZC+SUiCSU0kDf1TZbP8vX08W4Op+Hd6U06jxDg==",
+  "version": "2.23.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.23.0.zip",
+  "sha256": "44adfa2c628d5e47bb45bc21381665e0d61d7f10d715543ea447d287a1eb947c",
+  "sig": "j0CRzf46qxaQY1Dpi22Sa5sCS2yc8xtRxuAmiqk6RddhCLhzEaVt3RhtfnceYurPwOpyyEUl4G7xhQ5uPaP8AQ==",
   "notes": [
-    "🗳️ Votación: barras con relieve y brillo, y una luz que recorre el borde de la opción que va ganando",
-    "⚽ Penales: estadio de noche con estrellas, letrero LED que corre y flashes de cámaras en la tribuna (muchos más cuando hay gol)",
-    "🎰 Tragamonedas: marco de oro, rodillos con borde cromado y reflejo de vidrio, flechas en la línea de premio y aura brillante"
+    "💣 Bomba caliente: arena con ondas de calor que laten, fotos con aro dorado y la bomba con resplandor",
+    "🎣 Pesca: el sol brilla de verdad y se refleja en el agua, con luz de atardecer",
+    "🔤 Adivina la palabra: fichas con relieve y un destello que las cruza; las letras abiertas brillan",
+    "🏰 Guerra de castillos: sol con resplandor, luz cálida, castillos con sombra y barras de vida con relieve"
   ],
   "fecha": "2026-11-14"
 }
