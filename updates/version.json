@@ -1,11 +1,12 @@
 {
-  "version": "2.17.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.17.1.zip",
-  "sha256": "80818b327db524e957e7121c99585cd9c8978995ed022e59160f13a6b675779d",
-  "sig": "rZwqDmWkJkiaRkYFHUCg+LOIZcXzIwpUa1MyGB2T/bFFqs10prKsnLUBo5gneg8ojiMzNBglu9Tlp60Y2zR9BA==",
+  "version": "2.17.2",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.17.2.zip",
+  "sha256": "2b221023ff44bc47e3394b3d783b88e01fb9b8fbb6c4c2f8e3dad8e0fe563f13",
+  "sig": "TdsE4x7hPRqYEvO7v6Azd1xNsSlAUJGqG6MWKZJmbMst5GkjImYy58bp6qUNtg2IIpggQPuZzqGDlnLsJ4ZgAg==",
   "notes": [
-    "🫙 Con muchos regalos, el frasco se desbordaba y los regalos temblaban sin parar. Ahora se asientan y quedan quietos",
-    "📦 Si llegan más de los que caben, los regalos se achican un poco para que entren y, si aun así no caben, sale el más viejo"
+    "🫙 Cuando el frasco se llena hasta el borde, los regalos nuevos rebalsan, ruedan por el borde y caen por fuera como una cascada",
+    "🧊 Los regalos de adentro se quedan quietos, sin temblar",
+    "💎 Ningún regalo se achica ni desaparece del frasco"
   ],
   "fecha": "2026-11-14"
 }
