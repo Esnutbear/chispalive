@@ -1,15 +1,14 @@
 {
-  "version": "2.19.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.19.0.zip",
-  "sha256": "81cef69b358f38f61acc4a6d013ea4c207d2f1a37bb80a1d8899873d36f88ec8",
-  "sig": "YtlxOa4LPP3ZVl7CIMj5A2+SirgJCVjSdF9S5u3RQP2NOyRpoXkRTvpRKEt4X7KV7DmHfT50O2zqweyQsUvlAw==",
+  "version": "2.20.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.20.0.zip",
+  "sha256": "e518101059e792f55698ea073f1f80044ce7d27054b0318b420a21fc15af88f8",
+  "sig": "ZjzBcX6wo8WLspq4VGVF1gS7gII7uXEsIaeOebOq1yydmVJSxyajXi8F5z6XLzrUQdW4ispWamJzU5UgsHhrBQ==",
   "notes": [
-    "🧱 Nuevo diseño Bloques: ladrillos 3D de juguete con botoncitos",
-    "📦 Todos los bloques ahora son 3D, con tapa, costado y sombra, y se lee bien el nombre y la foto de quien regaló",
-    "🎥 La cámara sube con la torre: los bloques ya no se achican a rayitas",
-    "📏 Altímetro y regla de altura para ver cuánto falta para la meta",
-    "💥 Cada bloque aterriza con rebote y polvo, y los grandes hacen temblar la pantalla",
-    "✨ El último bloque brilla para que se vea quién acaba de regalar"
+    "🏁 Cada carril parece una pista de carreras, con el color de su animal",
+    "🌈 Una estela de color muestra cuánto avanzó cada animal",
+    "🥇 Medallas de puesto en vivo: 1º oro, 2º plata y 3º bronce",
+    "🐎 Los animales galopan todo el tiempo, con sombra en el piso y líneas de velocidad cuando avanzan",
+    "🏁 La meta brilla y la bandera ondea"
   ],
   "fecha": "2026-11-14"
 }
