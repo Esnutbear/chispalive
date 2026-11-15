@@ -1,17 +1,17 @@
 {
-  "version": "2.26.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.26.0.zip",
-  "sha256": "a8cee6d1a57c6c2c4d1b4d0117cb8fcf01ee557d73bba81ecde847e36c7acf1e",
-  "sig": "HRWa++ERjm/xPZTvgPpHV4djys0ZnA8fPmOb+/hh+ja2+9Kh58inI1AbQXkvQ5E0bdgK9WpmUi5eqNrU6dmOAw==",
+  "version": "2.27.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.27.0.zip",
+  "sha256": "c7f3923e23e6f3da5aa51cf533bb9e2f54ec77694ff6fe73a6e86f6433f43415",
+  "sig": "oPUKWWXdnqxZyJlt/qhYu07//giwItHI2pu/ritXNu3LgsIgWM4YqnyPFrr+jmomK3iAoFvltrohkUWpBEspCw==",
   "notes": [
-    "🎲 Lucky Roll: dado 3D de verdad que rueda, rebota y cae en su número",
-    "📋 Debajo del dado sale la lista de premios y se va iluminando mientras rueda (se puede apagar)",
-    "💎 Dados D4, D8, D10, D12 y D20 con forma de gema, y un estilo nuevo: Dorado",
-    "💰 Premio mayor con rayos, lluvia de monedas, estrellas y temblor",
-    "🎁 Cofre nuevo: madera con remaches, luz que sale al abrirse, monedas saltando y destellos",
-    "🎞️ Cinta de premios con marco dorado; la casilla ganadora se ilumina y los premios raros salen como ÉPICO o LEGENDARIO",
-    "🔊 40 sonidos nuevos, uno propio para cada juego: martillo de subasta, espadazo, gong, disparo de largada, hinchada de gol, palanca y lluvia de monedas del tragamonedas, mecha, chapuzón, latido y más",
-    "🛡️ Los sonidos que tú ya habías cambiado no se tocan; solo se actualizan los de fábrica"
+    "🎡 Ruleta en HD: aro metálico, focos que corren al girar, puntero nuevo y brillo de vidrio",
+    "⏱ Cuenta regresiva 3, 2, 1 antes de girar; la porción ganadora parpadea y las demás se apagan",
+    "👑 Spin Royale: las fichas eliminadas estallan en pedazos con destello rojo, y el duelo final entra con un cartel de ⚔️ DUELO FINAL",
+    "🏆 Al ganador le cae la corona, con rayos dorados y lluvia de monedas; el reloj late en los últimos 10 segundos",
+    "🔨 Subasta: cada puja suelta monedas y un +N, las filas se deslizan cuando cambian de puesto y avisa cuando alguien toma la delantera",
+    "📣 En los últimos segundos sale ¡A la una…! y ¡A las dos…!, y al cerrar cae el martillo con el sello de ¡VENDIDO!",
+    "⚡ Acciones: las alertas salen con rayos, estrellas, brillo, la foto del viewer y una barrita con el tiempo que queda",
+    "🔊 Sonido nuevo en Subasta: Nuevo líder"
   ],
   "fecha": "2026-11-15"
 }
