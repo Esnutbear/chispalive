@@ -1,16 +1,14 @@
 {
-  "version": "2.28.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.28.0.zip",
-  "sha256": "8985b8a820c6ac3a363ad9772be4b07b5b5dafcaf4e31f5648bc286f57596e84",
-  "sig": "wVBrcdPcf4cYsjDbfdCiQQGr70Zo48oar9PbIZcgumSwOdZW4VvEw3UBm1ExcQNh14GrB3WFZ61sc8SkXlPyCg==",
+  "version": "2.28.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.28.1.zip",
+  "sha256": "fe86768eaa291df8c8d74e3f794639fe52a297dc5dd2fb03da36829ad1fdc5d3",
+  "sig": "RTIjGoRu+Mi7zpb4IXiC+f2Y3yG630OM+bEYr6i9ICYkoEoeaprT3uGNrCw3o6c3D4qhE5cT7OgAiOWbp05tAA==",
   "notes": [
-    "🧸 Ya no salen todos iguales: 11 tipos de muñequito (clásico, gato, oso, conejo, robot, alien, fantasma, pingüino, rana, dino y pollito)",
-    "🎛️ Tú eliges cuáles pueden salir: enciende o apaga cada tipo en Cómo se ven",
-    "🕶️ Accesorios al azar: lentes, moño, gorra, audífonos, bufanda o corona",
-    "🌈 Tres paletas de color: Vivos, Pastel y Neón",
-    "🖼️ Sube hasta 4 imágenes tuyas (PNG o GIF) y salen caminando como muñequitos",
-    "💬 Comando nuevo !cambiar: cada viewer puede pedir otro muñequito",
-    "🔀 Botón Mezclar muñequitos para repartirlos de nuevo en vivo"
+    "🛡️ Red de seguridad: si algo falla por dentro (un dato raro del panel o del celular, un corte con TikTok), se anota y la app sigue en vivo en vez de cerrarse",
+    "🔒 Tu configuración queda protegida: un guardado incompleto ya no puede borrar los ajustes de un juego",
+    "🔊 Si un sonido propio (MP3) ya no existe, suena el de fábrica en lugar de quedarse mudo",
+    "🌎 Inglés: historial de Mascota, Sorteo, PK y Subathon ahora traducido",
+    "✅ Revisados los 32 overlays, los 29 juegos, el panel, el celular, la licencia y la actualización"
   ],
   "fecha": "2026-11-15"
 }
