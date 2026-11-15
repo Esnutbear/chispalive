@@ -1,15 +1,16 @@
 {
-  "version": "2.31.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.31.0.zip",
-  "sha256": "1e0f75d964e0e9881ccddaaca7ff2652747c60348b5c1dc0050044ce6620d2df",
-  "sig": "nucgmrOHD2BNGR/z6oIzcRcK8Htdv9Kb5RY1xDTbKLuBbuZPdMv4J4peZnEM5aCDU6SN5Ct5a5bPDle8HjDKDA==",
+  "version": "2.32.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.0.zip",
+  "sha256": "f5684124c086059664d305391d668210b83eefed4bc9081244f367ef7075c110",
+  "sig": "kZU5yfJqhDH0JaR6+v09HC8ZNyCd5y67NqAV0mOxcmN9ZVPwMyDaRUPIN7/TaMrerBiTxtb2Ku2tEgiuI92tDw==",
   "notes": [
-    "🎮 Cada juego y widget tiene ahora una cabecera grande con su propio color, su ícono animado y los botones de link y tutorial más a mano",
-    "🌈 Las tarjetas, las pestañas de ajustes y la vista previa de cada estudio toman el color del juego",
-    "🧰 Voz del chat, Acciones, OBS, Roblox, Simulador y Ajustes con su color propio en la cabecera y en las tarjetas",
-    "⚙️ Ajustes con la misma cabecera que el resto",
-    "⚡ Simulador: los botones se levantan al pasar el mouse y se hunden al tocarlos",
-    "🧭 Barra lateral más limpia: menos puntitos de NUEVO"
+    "🎱 Bingo del chat: tus viewers escriben !bingo y reciben su cartón. Salen bolas solas desde un bombo con tablero de números, y el primero que completa una línea (o el cartón lleno) canta ¡BINGO!",
+    "🔥 Bingo: se ve quiénes están más cerca de ganar, avisa cuando a alguien le falta 1, y con !carton cada uno ve su cartón en pantalla",
+    "⚡ Bingo: los likes llenan una barra que saca una bola extra, y un regalo también la saca al instante",
+    "✊ Piedra, papel o tijera, contra ti: todo el chat juega a la vez, tú sacas tu jugada (al azar o la eliges en vivo) y los que te ganan suman puntos con racha",
+    "⚔️ Piedra, papel o tijera, en torneo: entran con !ppt y juegan duelos uno contra uno hasta que queda un campeón",
+    "🔊 Sonidos propios: bola de bingo, ¡Bingo!, manos que se agitan y choque de manos",
+    "📱 Los dos juegos también se manejan desde el celular"
   ],
   "fecha": "2026-11-15"
 }
