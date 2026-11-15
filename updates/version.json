@@ -1,18 +1,17 @@
 {
-  "version": "2.25.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.25.1.zip",
-  "sha256": "f302079d0317ae269439d25994f596fc598d6225a8360ee0876d43f6c00466dd",
-  "sig": "39zLBlFrTxkFB13p1cG/I/L9nGOtroZa+/QHCMdIYBy5SAlnSygG1d0Bfzoi2FAVjZ6qbfE97e4ddcf/RHnQCw==",
+  "version": "2.26.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.26.0.zip",
+  "sha256": "a8cee6d1a57c6c2c4d1b4d0117cb8fcf01ee557d73bba81ecde847e36c7acf1e",
+  "sig": "HRWa++ERjm/xPZTvgPpHV4djys0ZnA8fPmOb+/hh+ja2+9Kh58inI1AbQXkvQ5E0bdgK9WpmUi5eqNrU6dmOAw==",
   "notes": [
-    "🏰 Castillos: fogonazo y humo en el cañón, balas que crecen con el regalo (bala, bala grande y bomba con chispas)",
-    "☄️ La bola de fuego ahora cae del cielo, oscurece la pantalla y deja el castillo en llamas",
-    "🏹 Lluvia de 6 flechas con cada tanda de likes",
-    "🔊 12 sonidos de batalla nuevos: cañonazo, impacto en piedra, flechas, meteorito, rugido de dragón, escudo, choque metálico, martillazos, derrumbe y cuerno de guerra",
-    "🌄 Escenario nuevo: montañas nevadas, rayos de sol, aves, y castillos con sombra y ventanas encendidas",
-    "🛍️ Tienda de diseños: cada regalo hace explotar adornos del diseño (regalos, calabazas, pétalos, fuegos, corazones)",
-    "🎵 Cada diseño tiene su sonido: cascabeles, risa tenebrosa, brillitos, fuegos artificiales y corazón",
-    "🎅 Momentos sorpresa: pasa el trineo de Papá Noel, un fantasma, una estrella fugaz, fuegos artificiales o Cupido",
-    "🎁 Botón para probar los efectos en tus overlays y 🔊 para escuchar cada diseño antes de elegirlo"
+    "🎲 Lucky Roll: dado 3D de verdad que rueda, rebota y cae en su número",
+    "📋 Debajo del dado sale la lista de premios y se va iluminando mientras rueda (se puede apagar)",
+    "💎 Dados D4, D8, D10, D12 y D20 con forma de gema, y un estilo nuevo: Dorado",
+    "💰 Premio mayor con rayos, lluvia de monedas, estrellas y temblor",
+    "🎁 Cofre nuevo: madera con remaches, luz que sale al abrirse, monedas saltando y destellos",
+    "🎞️ Cinta de premios con marco dorado; la casilla ganadora se ilumina y los premios raros salen como ÉPICO o LEGENDARIO",
+    "🔊 40 sonidos nuevos, uno propio para cada juego: martillo de subasta, espadazo, gong, disparo de largada, hinchada de gol, palanca y lluvia de monedas del tragamonedas, mecha, chapuzón, latido y más",
+    "🛡️ Los sonidos que tú ya habías cambiado no se tocan; solo se actualizan los de fábrica"
   ],
-  "fecha": "2026-11-14"
+  "fecha": "2026-11-15"
 }
