@@ -1,15 +1,14 @@
 {
-  "version": "2.29.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.29.0.zip",
-  "sha256": "2c2b5b87622b37652b9f9dfbc7a2791580eb034f9593fbeb2d6f7b3a970d3267",
-  "sig": "Sxza5VsyAjFi8ljmAFf08Anoe17xdRIeBGmzsB5FMPPhuDukdjg/Y7utPp0BKWsvSUO5rBnYzGfUN/OxlQ8SDg==",
+  "version": "2.30.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.30.0.zip",
+  "sha256": "db70ecc5d26d93e9bf1166e2d6a732a783dbd861b3aef7b814b583caf1fe39f6",
+  "sig": "APLtBVSRW9l0fKO5VO0d3oNSdrjf+T26p2D98Z4L9YhfghkTfZdrU28lxi6ZNZL7GymgqdMBZNnVXiS2ATlxBg==",
   "notes": [
-    "🧭 Barra lateral más limpia: los carteles de NUEVO ahora son un puntito y los nombres ya no se parten en dos líneas",
-    "🎨 Mi estilo, Links para OBS, Licencia y Simulador tienen la misma cabecera que el resto",
-    "📊 Dashboard: tarjetas de Espectadores, Monedas, Likes y Seguidores con su color, y buscador en Tus juegos y widgets",
-    "🖥️ Links para OBS: los 3 pasos para agregarlos, buscador y cada link con su ícono; la tarjeta se marca en verde al copiar",
-    "📈 Resúmenes: los números grandes ya no se salen de su tarjeta (salen como 1,2 M y el exacto al pasar el mouse)",
-    "📱 Celular: explica en 3 pasos cómo conectarlo y qué puedes manejar desde el teléfono"
+    "🛍️ Tienda de diseños: cada diseño con sus propios colores, la tarjeta se levanta y brilla al pasar el mouse, y el que tienes puesto lleva una cinta de EN USO",
+    "🛡️ Filtro del chat: tres contadores arriba (ocultos en este live, palabras bloqueadas y usuarios silenciados) y la cabecera se pone verde cuando está encendido",
+    "📦 Plantillas: cada una con su color y su ícono grande; la que tienes puesta queda resaltada",
+    "💰 Cuánto ganaste: tarjetas de Hoy, Semana, Mes y Total con color propio y, si todavía no hay ganancias, un aviso claro en vez del gráfico vacío",
+    "🔧 Plantillas ya no acepta nombres raros al guardar"
   ],
   "fecha": "2026-11-15"
 }
