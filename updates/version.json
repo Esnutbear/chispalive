@@ -1,17 +1,10 @@
 {
-  "version": "2.27.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.27.0.zip",
-  "sha256": "c7f3923e23e6f3da5aa51cf533bb9e2f54ec77694ff6fe73a6e86f6433f43415",
-  "sig": "oPUKWWXdnqxZyJlt/qhYu07//giwItHI2pu/ritXNu3LgsIgWM4YqnyPFrr+jmomK3iAoFvltrohkUWpBEspCw==",
+  "version": "2.27.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.27.1.zip",
+  "sha256": "0fffcf8eb2006b76884c9913bb72f25ad275484aa4b7cbfc790e232162d7c2d2",
+  "sig": "AwuP7Vmhz3mCKogkz77Ln8kvoAB0gtLlW3v+IzdNAARAk6G+PHv8+kXlM0jsmpWhpBAOPw1iGf9Zg334EAqzBQ==",
   "notes": [
-    "🎡 Ruleta en HD: aro metálico, focos que corren al girar, puntero nuevo y brillo de vidrio",
-    "⏱ Cuenta regresiva 3, 2, 1 antes de girar; la porción ganadora parpadea y las demás se apagan",
-    "👑 Spin Royale: las fichas eliminadas estallan en pedazos con destello rojo, y el duelo final entra con un cartel de ⚔️ DUELO FINAL",
-    "🏆 Al ganador le cae la corona, con rayos dorados y lluvia de monedas; el reloj late en los últimos 10 segundos",
-    "🔨 Subasta: cada puja suelta monedas y un +N, las filas se deslizan cuando cambian de puesto y avisa cuando alguien toma la delantera",
-    "📣 En los últimos segundos sale ¡A la una…! y ¡A las dos…!, y al cerrar cae el martillo con el sello de ¡VENDIDO!",
-    "⚡ Acciones: las alertas salen con rayos, estrellas, brillo, la foto del viewer y una barrita con el tiempo que queda",
-    "🔊 Sonido nuevo en Subasta: Nuevo líder"
+    "🎲 En las vistas de casillas (Arena, Cuadrícula, Pirámide, Hexágono) la luz ya no recorre las fichas en orden: salta al azar de una a otra hasta caer en la elegida, con pocos o con muchos jugadores"
   ],
   "fecha": "2026-11-15"
 }
