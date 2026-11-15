@@ -1,10 +1,16 @@
 {
-  "version": "2.27.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.27.1.zip",
-  "sha256": "0fffcf8eb2006b76884c9913bb72f25ad275484aa4b7cbfc790e232162d7c2d2",
-  "sig": "AwuP7Vmhz3mCKogkz77Ln8kvoAB0gtLlW3v+IzdNAARAk6G+PHv8+kXlM0jsmpWhpBAOPw1iGf9Zg334EAqzBQ==",
+  "version": "2.28.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.28.0.zip",
+  "sha256": "8985b8a820c6ac3a363ad9772be4b07b5b5dafcaf4e31f5648bc286f57596e84",
+  "sig": "wVBrcdPcf4cYsjDbfdCiQQGr70Zo48oar9PbIZcgumSwOdZW4VvEw3UBm1ExcQNh14GrB3WFZ61sc8SkXlPyCg==",
   "notes": [
-    "🎲 En las vistas de casillas (Arena, Cuadrícula, Pirámide, Hexágono) la luz ya no recorre las fichas en orden: salta al azar de una a otra hasta caer en la elegida, con pocos o con muchos jugadores"
+    "🧸 Ya no salen todos iguales: 11 tipos de muñequito (clásico, gato, oso, conejo, robot, alien, fantasma, pingüino, rana, dino y pollito)",
+    "🎛️ Tú eliges cuáles pueden salir: enciende o apaga cada tipo en Cómo se ven",
+    "🕶️ Accesorios al azar: lentes, moño, gorra, audífonos, bufanda o corona",
+    "🌈 Tres paletas de color: Vivos, Pastel y Neón",
+    "🖼️ Sube hasta 4 imágenes tuyas (PNG o GIF) y salen caminando como muñequitos",
+    "💬 Comando nuevo !cambiar: cada viewer puede pedir otro muñequito",
+    "🔀 Botón Mezclar muñequitos para repartirlos de nuevo en vivo"
   ],
   "fecha": "2026-11-15"
 }
