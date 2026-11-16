@@ -1,12 +1,11 @@
 {
-  "version": "2.32.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.1.zip",
-  "sha256": "7360b0b39065178b3ab38767dd070c6b7bf3846db688391d9a1851c5faa164a4",
-  "sig": "raAJifw0f5xmydS6dWeftYQ+7kgbNAm6EObWSW+OG4roBPV/49Dr0rklvFjA7b3boAYg1EtvxjFrBZWRPrHIDQ==",
+  "version": "2.32.2",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.2.zip",
+  "sha256": "678465c76c634481c25f7949d9866e45dd4c6a85a0bf540e2768a902a27242af",
+  "sig": "3Y1VQJ+BGgvt5OlTT19gdfrwrK1wJW3pdFWfP00IQWjSJZDJ2KfEWeSmvpf3u7GUKXRlNtiOJSezlcbjTiDpAQ==",
   "notes": [
-    "⭐ Básico: 6 juegos (Spin Royale, Ruleta, Lucky Roll, Frasco, Batalla y Carrera), todas las alertas y widgets con Votación incluida, Voz del chat, Acciones y filtro del chat",
-    "💎 Pro: todo lo del Básico, más Subasta y Subathon, 12 juegos más (Bingo, Piedra papel o tijera, Castillos, Torre, Jefe, Trivia y otros), Sorteos, Marcador PK, Muñequitos, Puntos, OBS y Roblox",
-    "🎁 La prueba gratis sigue trayendo todo"
+    "🎬 El control de OBS y los efectos en la cámara pasan al plan Básico",
+    "🧱 Roblox sigue siendo del Pro"
   ],
   "fecha": "2026-11-16"
 }
