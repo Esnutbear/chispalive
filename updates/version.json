@@ -1,11 +1,10 @@
 {
-  "version": "2.32.2",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.2.zip",
-  "sha256": "678465c76c634481c25f7949d9866e45dd4c6a85a0bf540e2768a902a27242af",
-  "sig": "3Y1VQJ+BGgvt5OlTT19gdfrwrK1wJW3pdFWfP00IQWjSJZDJ2KfEWeSmvpf3u7GUKXRlNtiOJSezlcbjTiDpAQ==",
+  "version": "2.32.3",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.3.zip",
+  "sha256": "3ef85332c2e94e8bcc3a6b56809a6f94c612432374ab450662a1a2445e9f82e8",
+  "sig": "mOFM1pZ++4SJOFJtk/dl/i4iHcujFa2hVfg41fXm5QfcCeZteYLo9gjVN7puZrKfZd9vAoGyp/SVTgYh4HfdAw==",
   "notes": [
-    "🎬 El control de OBS y los efectos en la cámara pasan al plan Básico",
-    "🧱 Roblox sigue siendo del Pro"
+    "🧪 Si eres el dueño y activas una licencia (por ejemplo Básico), ahora ves la app igual que ese cliente, con los candados del plan. Quita la licencia para volver a tener todo"
   ],
   "fecha": "2026-11-16"
 }
