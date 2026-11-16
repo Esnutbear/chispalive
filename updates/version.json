@@ -1,10 +1,11 @@
 {
-  "version": "2.32.3",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.3.zip",
-  "sha256": "3ef85332c2e94e8bcc3a6b56809a6f94c612432374ab450662a1a2445e9f82e8",
-  "sig": "mOFM1pZ++4SJOFJtk/dl/i4iHcujFa2hVfg41fXm5QfcCeZteYLo9gjVN7puZrKfZd9vAoGyp/SVTgYh4HfdAw==",
+  "version": "2.32.4",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.4.zip",
+  "sha256": "7665eb9ae763e17357f06a754860dfee1e5115e33e22ae8fb684d1ea00676d71",
+  "sig": "VIwxMKVsxvv8UJSAEZp/qlq98PeKXN73eI0tXQLWvz5X9XBKfK33l608wUq+2aLfycjeAC6rEcoijkzSpiTMDg==",
   "notes": [
-    "🧪 Si eres el dueño y activas una licencia (por ejemplo Básico), ahora ves la app igual que ese cliente, con los candados del plan. Quita la licencia para volver a tener todo"
+    "🔒 Cuando vence la prueba o el plan (Básico o Pro), ya no se puede usar nada: ni conectarse al live, ni los juegos a mano, ni el simulador, ni OBS o Roblox",
+    "⏱️ Si vence con la app abierta, se corta sola en menos de un minuto y te lleva a renovar"
   ],
   "fecha": "2026-11-16"
 }
