@@ -1,16 +1,12 @@
 {
-  "version": "2.32.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.0.zip",
-  "sha256": "f5684124c086059664d305391d668210b83eefed4bc9081244f367ef7075c110",
-  "sig": "kZU5yfJqhDH0JaR6+v09HC8ZNyCd5y67NqAV0mOxcmN9ZVPwMyDaRUPIN7/TaMrerBiTxtb2Ku2tEgiuI92tDw==",
+  "version": "2.32.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.1.zip",
+  "sha256": "7360b0b39065178b3ab38767dd070c6b7bf3846db688391d9a1851c5faa164a4",
+  "sig": "raAJifw0f5xmydS6dWeftYQ+7kgbNAm6EObWSW+OG4roBPV/49Dr0rklvFjA7b3boAYg1EtvxjFrBZWRPrHIDQ==",
   "notes": [
-    "🎱 Bingo del chat: tus viewers escriben !bingo y reciben su cartón. Salen bolas solas desde un bombo con tablero de números, y el primero que completa una línea (o el cartón lleno) canta ¡BINGO!",
-    "🔥 Bingo: se ve quiénes están más cerca de ganar, avisa cuando a alguien le falta 1, y con !carton cada uno ve su cartón en pantalla",
-    "⚡ Bingo: los likes llenan una barra que saca una bola extra, y un regalo también la saca al instante",
-    "✊ Piedra, papel o tijera, contra ti: todo el chat juega a la vez, tú sacas tu jugada (al azar o la eliges en vivo) y los que te ganan suman puntos con racha",
-    "⚔️ Piedra, papel o tijera, en torneo: entran con !ppt y juegan duelos uno contra uno hasta que queda un campeón",
-    "🔊 Sonidos propios: bola de bingo, ¡Bingo!, manos que se agitan y choque de manos",
-    "📱 Los dos juegos también se manejan desde el celular"
+    "⭐ Básico: 6 juegos (Spin Royale, Ruleta, Lucky Roll, Frasco, Batalla y Carrera), todas las alertas y widgets con Votación incluida, Voz del chat, Acciones y filtro del chat",
+    "💎 Pro: todo lo del Básico, más Subasta y Subathon, 12 juegos más (Bingo, Piedra papel o tijera, Castillos, Torre, Jefe, Trivia y otros), Sorteos, Marcador PK, Muñequitos, Puntos, OBS y Roblox",
+    "🎁 La prueba gratis sigue trayendo todo"
   ],
-  "fecha": "2026-11-15"
+  "fecha": "2026-11-16"
 }
