@@ -1,11 +1,14 @@
 {
-  "version": "2.32.4",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.32.4.zip",
-  "sha256": "7665eb9ae763e17357f06a754860dfee1e5115e33e22ae8fb684d1ea00676d71",
-  "sig": "VIwxMKVsxvv8UJSAEZp/qlq98PeKXN73eI0tXQLWvz5X9XBKfK33l608wUq+2aLfycjeAC6rEcoijkzSpiTMDg==",
+  "version": "2.33.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.33.0.zip",
+  "sha256": "d7c6d2067dba19e0a3a367bf0cd9c402b06af7d45adc2a7ccae11e93e365b275",
+  "sig": "jHSxq/bptSaZpTwkKFLKmOx0rxGEtS9Q2ZaaL/ZK3t7YLGfNiaKDkaaRqlA3RzZXnWfSTOx40SzftxeDKx8CAA==",
   "notes": [
-    "🔒 Cuando vence la prueba o el plan (Básico o Pro), ya no se puede usar nada: ni conectarse al live, ni los juegos a mano, ni el simulador, ni OBS o Roblox",
-    "⏱️ Si vence con la app abierta, se corta sola en menos de un minuto y te lleva a renovar"
+    "💎 Tarjeta «Mi plan»: ves tu plan, si está activo y una barra con los días que te quedan",
+    "🔁 Renovar sin perder días: si renuevas antes de que venza, los días que te quedaban se suman",
+    "✅ «Lo que incluye tu plan» con todo lo desbloqueado y lo que tiene candado",
+    "📊 Tabla para comparar Prueba gratis, Básico y Pro",
+    "🧾 «Mis compras»: historial de cada clave que activaste"
   ],
-  "fecha": "2026-11-16"
+  "fecha": "2026-11-18"
 }
