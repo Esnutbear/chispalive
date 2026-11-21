@@ -1,10 +1,12 @@
 {
-  "version": "2.33.2",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.33.2.zip",
-  "sha256": "1ad68609947802f90285727ee424c26729bb8b9b8f280c78fff84c119d076f57",
-  "sig": "NIeCIt0Du5/xL5wqelZaEe6QEgVccPGCo4lViT7uInV8W3VDiZSYu9CYJRfedSCM1G3iYg1J/A2ntcMLb8H7Dg==",
+  "version": "2.34.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.34.0.zip",
+  "sha256": "607ce4772f75d7885f5cbb83f223e58f9679ff5af2e71db64ddc01f218981a45",
+  "sig": "wryQC+OM5dnHTY9e69Jr2POmtzj+JlMHtZSN7swn3Hsptl5hwX4ZOy4Z4cOWBqEjBbFmm4zNVe41r38ZOGJeBQ==",
   "notes": [
-    "💥 Cuando alguien queda eliminado su ficha explota y desaparece del tablero; los que siguen vivos se acomodan y se ven más grandes"
+    "🎵 88 sonidos nuevos: ahora ningún juego comparte sonido con otro (cada uno tiene su ganador, su reloj, su inicio…)",
+    "🎮 En la lista de sonidos están agrupados por juego para encontrarlos rápido",
+    "🔁 Si tú ya habías elegido un sonido, se respeta; solo cambian los que seguían de fábrica"
   ],
   "fecha": "2026-11-21"
 }
