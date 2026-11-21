@@ -1,12 +1,14 @@
 {
-  "version": "2.34.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.34.0.zip",
-  "sha256": "607ce4772f75d7885f5cbb83f223e58f9679ff5af2e71db64ddc01f218981a45",
-  "sig": "wryQC+OM5dnHTY9e69Jr2POmtzj+JlMHtZSN7swn3Hsptl5hwX4ZOy4Z4cOWBqEjBbFmm4zNVe41r38ZOGJeBQ==",
+  "version": "2.35.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.0.zip",
+  "sha256": "fd508c139ef65d0f851e0ddaab4d6be6dfe12d739bd7dfd9d43bfa29b176bca1",
+  "sig": "RXYZu9iLWtAcycJFmODcKH+LfPmtoVdUNY29oQ5OddIgkvpHx42ArmUwLKORd+x9ZvFRZeYgMAjkcSM+jNZGAQ==",
   "notes": [
-    "🎵 88 sonidos nuevos: ahora ningún juego comparte sonido con otro (cada uno tiene su ganador, su reloj, su inicio…)",
-    "🎮 En la lista de sonidos están agrupados por juego para encontrarlos rápido",
-    "🔁 Si tú ya habías elegido un sonido, se respeta; solo cambian los que seguían de fábrica"
+    "👋 Primer uso guiado: pones tu usuario, eliges un juego, te enseña a ponerlo en TikTok LIVE Studio u OBS y lo pruebas, todo en 2 minutos",
+    "💾 Copia de seguridad completa: ajustes, imágenes, sonidos, rankings, puntos, mascota y resúmenes en un solo archivo para pasarlo a otra PC",
+    "📈 Al terminar tu live sale un resumen: cuánto ganaste, quién regaló más y qué juego te dio más monedas",
+    "🎁 Metas con premio: «10 mil likes = ruleta gratis». Al cumplirse arranca el juego que elijas para todos",
+    "📅 Plan semanal (Básico y Pro) para probar pagando poco"
   ],
   "fecha": "2026-11-21"
 }
