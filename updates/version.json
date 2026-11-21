@@ -1,11 +1,10 @@
 {
-  "version": "2.35.5",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.5.zip",
-  "sha256": "84f44b59755ce84ac19a995416bcdbb0e70db91bc48d3452ae03ad60e003a83c",
-  "sig": "UkpuXRwJFVUXVX+bIOwL/tXTK4bBZhdfclXSy+B5fkW+t7CGx6Bnaj5ZEyYUfg/z383VgluPKnDfj8iQ9kq3Cw==",
+  "version": "2.35.6",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.6.zip",
+  "sha256": "a90b93d7acef7e2921a7af3dbfd29c1491201fbd81ffa169ca3409be7323e09c",
+  "sig": "aMdLEKhOOO+EHr2Zgtc4Dbi3WQJXDQXWl0+DiXN8Tkl6bVmlCFEuKNe/H7w8hvvcufnw538mIDaprDyM773kCQ==",
   "notes": [
-    "🪙 Ahora puedes pagar con USDT por la red TRC20 (TRON) o BEP20 (BNB Chain)",
-    "📩 Las instrucciones para mandar tu comprobante por Discord ahora se ven más grandes y claras"
+    "📄 Nuevas páginas de Términos de uso y Política de privacidad, enlazadas desde la pantalla de compra"
   ],
   "fecha": "2026-11-21"
 }
