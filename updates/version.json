@@ -1,14 +1,10 @@
 {
-  "version": "2.33.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.33.0.zip",
-  "sha256": "d7c6d2067dba19e0a3a367bf0cd9c402b06af7d45adc2a7ccae11e93e365b275",
-  "sig": "jHSxq/bptSaZpTwkKFLKmOx0rxGEtS9Q2ZaaL/ZK3t7YLGfNiaKDkaaRqlA3RzZXnWfSTOx40SzftxeDKx8CAA==",
+  "version": "2.33.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.33.1.zip",
+  "sha256": "afd6226a50edec6ea7e1a07e489cc2839b9b5ae28c77605ab3d6510909da7463",
+  "sig": "IGtyVPXGNYnFZHgR5pVOJo/ZX5z+w4QXVKe+c3D06bBbTTWi+EV9VKEc+gK1b4y+oKtwi6h+omiFQUixQr7ZDQ==",
   "notes": [
-    "💎 Tarjeta «Mi plan»: ves tu plan, si está activo y una barra con los días que te quedan",
-    "🔁 Renovar sin perder días: si renuevas antes de que venza, los días que te quedaban se suman",
-    "✅ «Lo que incluye tu plan» con todo lo desbloqueado y lo que tiene candado",
-    "📊 Tabla para comparar Prueba gratis, Básico y Pro",
-    "🧾 «Mis compras»: historial de cada clave que activaste"
+    "📸 Cuando alguien queda eliminado su foto se sigue viendo (en gris) con una franja «ELIMINADO», en vez de taparla con una X grande"
   ],
-  "fecha": "2026-11-18"
+  "fecha": "2026-11-21"
 }
