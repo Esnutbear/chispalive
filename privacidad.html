@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de privacidad · ChispaLive</title>
+<meta name="description" content="Política de privacidad de ChispaLive.">
+<link rel="icon" href="oso.svg">
+<style>
+@font-face { font-family: 'Bricolage Grotesque'; src: url(fonts/bricolage.woff2) format('woff2'); font-weight: 200 800; font-display: swap; }
+:root { --ground: #0e0c12; --field: #17141d; --ink: #f6f3ee; --soft: #b9b2c4; --accent: #ff6a2b; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 400 17px/1.65 'Bricolage Grotesque', 'Segoe UI', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--accent); }
+header { position: sticky; top: 0; z-index: 5; background: rgba(14,12,18,.88); backdrop-filter: blur(10px); }
+header .in { max-width: 860px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; gap: 12px; }
+header .logo { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 20px; text-decoration: none; color: var(--ink); }
+header .logo img { width: 34px; height: 34px; }
+header nav { margin-left: auto; display: flex; gap: 18px; font-size: 15px; }
+header nav a { color: var(--soft); text-decoration: none; } header nav a.on, header nav a:hover { color: var(--ink); }
+main { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+h1 { font-size: clamp(34px, 6vw, 52px); line-height: 1.05; margin: 10px 0 8px; letter-spacing: -.02em; }
+.upd { color: var(--soft); margin: 0 0 28px; }
+.sum { background: var(--field); border-radius: 22px; padding: 22px 26px; margin-bottom: 34px; }
+.sum b { display: block; margin-bottom: 8px; font-size: 18px; }
+.sum ul { margin: 0; padding-left: 20px; } .sum li { margin: 4px 0; }
+h2 { font-size: 24px; margin: 36px 0 10px; letter-spacing: -.01em; }
+p, li { color: #e6e1ea; } ul { padding-left: 22px; }
+footer { color: var(--soft); text-align: center; padding: 30px 24px 50px; font-size: 15px; }
+footer a { color: var(--soft); margin: 0 8px; }
+</style>
+</head>
+<body>
+<header><div class="in"><a class="logo" href="./"><img src="oso.svg" alt="">ChispaLive</a>
+<nav><a href="./">Inicio</a><a href="terminos.html">Términos</a><a href="privacidad.html" class="on">Privacidad</a></nav></div></header>
+<main>
+<h1>Política de privacidad</h1>
+<p class="upd">Última actualización: 21 de noviembre de 2026</p>
+<div class="sum"><b>En resumen</b><ul>
+<li>ChispaLive corre en tu computadora y guarda tus datos ahí. No tenemos servidores que guarden tu información.</li>
+<li>No vendemos ni compartimos tus datos con nadie para publicidad.</li>
+<li>No mostramos anuncios ni usamos rastreadores dentro de la app.</li>
+</ul></div>
+
+<h2>1. Quiénes somos</h2>
+<p>ChispaLive es un proyecto independiente hecho en Perú. Puedes contactarnos por nuestro <a href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener">Discord</a> para cualquier pregunta sobre tus datos.</p>
+
+<h2>2. Qué se guarda en tu computadora</h2>
+<p>Todo lo que configuras se guarda solo en tu PC (en Windows, en la carpeta <code>%APPDATA%\ChispaLive</code>):</p>
+<ul>
+<li>Tu usuario de TikTok y los ajustes de tus juegos, widgets y acciones.</li>
+<li>Las imágenes, GIF y sonidos que subes.</li>
+<li>Rankings, puntos, la mascota y los resúmenes de tus lives (nombres de usuario y fotos públicas de quienes te mandan regalos, comentan o te siguen, tal como TikTok los muestra en el live).</li>
+<li>Tu licencia: la clave, el plan, las fechas y un <b>código de equipo</b> que se calcula a partir de tu computadora para que la licencia funcione solo en ella.</li>
+</ul>
+<p>Estos datos no se envían a ChispaLive. Puedes borrarlos cuando quieras eliminando esa carpeta.</p>
+
+<h2>3. Qué datos salen de tu computadora</h2>
+<ul>
+<li><b>Conexión con TikTok:</b> para leer tu live, la app se conecta a TikTok y usa un servicio externo de firmas (Euler Stream) al que se envía tu usuario de TikTok. Esos servicios tienen sus propias políticas de privacidad.</li>
+<li><b>Actualizaciones:</b> la app consulta nuestra página en GitHub para saber si hay una versión nueva. Esa consulta no incluye tus datos.</li>
+<li><b>Funciones que tú activas:</b> si conectas Roblox, OBS o el control desde el celular, la app se comunica con esos servicios o equipos usando los datos que tú configuras. El control desde el celular funciona solo dentro de tu red WiFi y con tu código secreto.</li>
+</ul>
+
+<h2>4. Cuando compras</h2>
+<p>Cuando pagas un plan nos mandas, por un ticket privado de Discord, la captura de tu pago y tu código de equipo. Usamos esos datos solo para confirmar el pago, generar tu clave y darte soporte. Los pagos los procesan Yape, tu banco o billetera, o la red de la criptomoneda; ChispaLive no recibe ni guarda los datos de tu tarjeta o de tu cuenta bancaria. Guardamos el registro de tu compra (plan, fecha y código de equipo) mientras sea necesario para tu licencia y para cumplir obligaciones legales.</p>
+
+<h2>5. Datos de tus viewers</h2>
+<p>La app muestra en pantalla los nombres y fotos públicas que TikTok entrega durante el live (por ejemplo, en alertas y rankings). Esa información se queda en tu computadora y la usas tú en tu propio live.</p>
+
+<h2>6. Menores de edad</h2>
+<p>ChispaLive está pensada para creadores que cumplen la edad mínima que TikTok exige para hacer lives. No recopilamos datos de menores a sabiendas.</p>
+
+<h2>7. Tus derechos</h2>
+<p>De acuerdo con la Ley N.° 29733, Ley de Protección de Datos Personales del Perú, puedes pedirnos acceder, corregir o eliminar los datos de tu compra que tengamos. Escríbenos por <a href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener">Discord</a> y te respondemos. Los datos guardados en tu computadora los controlas tú directamente.</p>
+
+<h2>8. Cambios a esta política</h2>
+<p>Si cambiamos esta política, publicaremos la nueva versión en esta página con su fecha.</p>
+</main>
+<footer>ChispaLive · Hecho en Perú · <a href="terminos.html">Términos</a><a href="privacidad.html">Privacidad</a><a href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener">Discord</a></footer>
+</body>
+</html>
