@@ -1,10 +1,13 @@
 {
-  "version": "2.35.6",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.6.zip",
-  "sha256": "a90b93d7acef7e2921a7af3dbfd29c1491201fbd81ffa169ca3409be7323e09c",
-  "sig": "aMdLEKhOOO+EHr2Zgtc4Dbi3WQJXDQXWl0+DiXN8Tkl6bVmlCFEuKNe/H7w8hvvcufnw538mIDaprDyM773kCQ==",
+  "version": "2.36.0",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.36.0.zip",
+  "sha256": "602d374953fbdc0bb4451fbf556eb3c1e145d8e96189e8d358c06487ce1038e0",
+  "sig": "pWXzLCswwgGzijeMoWmeBA8UMJVCTc86PCeGHHTpjmcAN8iiCxhSFEbGYDUEj9BamM7OF1IcpIgGb/f3TmCZCA==",
   "notes": [
-    "📄 Nuevas páginas de Términos de uso y Política de privacidad, enlazadas desde la pantalla de compra"
+    "✨ Nueva sección Chispas y cofres: gana Chispas con misiones (tus lives, rachas, monedas) y con códigos por traer amigos, subir videos o mandar ideas",
+    "🎁 3 cofres (común, raro y legendario) con animación de apertura: días gratis, días de Pro, diseños y sonidos exclusivos",
+    "🌊🔥🌌👑 4 diseños exclusivos que solo salen en cofres: Océano, Infierno, Galaxia y Rey Dorado, con efectos nuevos en pantalla",
+    "🔊 6 sonidos exclusivos de cofre: Lluvia de monedas, Victoria 8-bit, Glitch, Trueno épico, Coro celestial y Rugido legendario"
   ],
   "fecha": "2026-11-21"
 }
