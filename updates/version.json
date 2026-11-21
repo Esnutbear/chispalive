@@ -1,10 +1,10 @@
 {
-  "version": "2.35.1",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.1.zip",
-  "sha256": "4d611cfdcc55904e0593ec14d7a98d52fc057f582618d7282038d263cacde5b6",
-  "sig": "0fklDE0QtBr/LmTxFWnE98Bxo1+AlIj67QqB7i8T/o6ygGqqbhwtnxKhVQ5/nbibRv8ToE7EFiRoYzQ9/yt/Cw==",
+  "version": "2.35.2",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.2.zip",
+  "sha256": "d6f8e97f94ca4595dec48aec732bd01f5abc91f927ac032bfd42da1e08ef6f8c",
+  "sig": "kGRqKS6ali6gvfA2NdQhObDEVTV4JXKeM2dpqlZh8ZMgXgN7sby8vFgRwDF+qHhcz8I/tC9oLv96SRIxFbw7Bw==",
   "notes": [
-    "🟣 Ya se puede pagar el plan con Yape escaneando el QR desde la pantalla de Licencia"
+    "🏦 Nueva forma de pago: escanea el QR desde la app de tu banco o billetera (BCP, BBVA, Interbank, Plin…)"
   ],
   "fecha": "2026-11-21"
 }
