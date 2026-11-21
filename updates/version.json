@@ -1,14 +1,10 @@
 {
-  "version": "2.35.0",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.0.zip",
-  "sha256": "fd508c139ef65d0f851e0ddaab4d6be6dfe12d739bd7dfd9d43bfa29b176bca1",
-  "sig": "RXYZu9iLWtAcycJFmODcKH+LfPmtoVdUNY29oQ5OddIgkvpHx42ArmUwLKORd+x9ZvFRZeYgMAjkcSM+jNZGAQ==",
+  "version": "2.35.1",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.1.zip",
+  "sha256": "4d611cfdcc55904e0593ec14d7a98d52fc057f582618d7282038d263cacde5b6",
+  "sig": "0fklDE0QtBr/LmTxFWnE98Bxo1+AlIj67QqB7i8T/o6ygGqqbhwtnxKhVQ5/nbibRv8ToE7EFiRoYzQ9/yt/Cw==",
   "notes": [
-    "👋 Primer uso guiado: pones tu usuario, eliges un juego, te enseña a ponerlo en TikTok LIVE Studio u OBS y lo pruebas, todo en 2 minutos",
-    "💾 Copia de seguridad completa: ajustes, imágenes, sonidos, rankings, puntos, mascota y resúmenes en un solo archivo para pasarlo a otra PC",
-    "📈 Al terminar tu live sale un resumen: cuánto ganaste, quién regaló más y qué juego te dio más monedas",
-    "🎁 Metas con premio: «10 mil likes = ruleta gratis». Al cumplirse arranca el juego que elijas para todos",
-    "📅 Plan semanal (Básico y Pro) para probar pagando poco"
+    "🟣 Ya se puede pagar el plan con Yape escaneando el QR desde la pantalla de Licencia"
   ],
   "fecha": "2026-11-21"
 }
