@@ -232,8 +232,19 @@ section { padding-top: var(--gap); }
 .plan .buy2 { display: flex; gap: 10px; flex-wrap: wrap; }
 .plan.best .btn { background: var(--accent-ink); color: #fff; }
 .plan.best .btn:hover { background: #2e1606; }
-.pay { display: flex; flex-wrap: wrap; gap: 10px 28px; margin-top: 32px; font-weight: 600; }
-.pay span:first-child { color: var(--soft); font-weight: 500; }
+.buyhow { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 20px; margin-top: 20px; }
+.buyhow > div { border-radius: 28px; padding: clamp(24px, 3vw, 44px); background: var(--field); }
+.buyhow h3 { margin: 0 0 18px; }
+.bh-list { display: flex; flex-direction: column; gap: 12px; }
+.bh-m { display: flex; align-items: center; gap: 14px; }
+.bh-m b { display: block; font-size: 1.08em; } .bh-m small { display: block; color: var(--soft); font-size: .92em; margin-top: 2px; }
+.bh-m.soon { opacity: .55; }
+.bh-ic { flex: none; width: 46px; height: 46px; border-radius: 14px; display: grid; place-items: center; font-size: 22px; }
+.bh-steps ol { margin: 0 0 22px; padding: 0; list-style: none; counter-reset: bh; display: flex; flex-direction: column; gap: 14px; }
+.bh-steps li { counter-increment: bh; position: relative; padding-left: 46px; }
+.bh-steps li::before { content: counter(bh); position: absolute; left: 0; top: 0; width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; font-weight: 800; background: var(--ink); color: var(--ground); }
+.bh-steps li b { display: block; } .bh-steps li span { display: block; color: var(--soft); margin-top: 2px; }
+@media (max-width: 900px) { .buyhow { grid-template-columns: 1fr; } }
 .note { margin-top: 10px; color: var(--soft); font-size: 16px; }
 @media (max-width: 900px) { .plans { grid-template-columns: 1fr; } }
 
@@ -463,7 +474,27 @@ footer a { text-decoration: none; } footer a:hover { color: var(--ink); }
           <div class="buy2"><a class="btn" data-buy="semanal" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Weekly">Semanal</a><a class="btn" data-buy="mensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="anual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
         </article>
       </div>
-      <div class="pay rv"><span data-en="Pay with">Pagas con</span><span>Yape</span><span>PagoEfectivo</span><span data-en="Card or PayPal">Tarjeta o PayPal</span></div>
+      <div class="buyhow rv">
+        <div class="bh-pays">
+          <h3 data-en="Ways to pay">Formas de pago</h3>
+          <div class="bh-list">
+            <div class="bh-m"><span class="bh-ic" style="background:#742284">🟣</span><div><b>Yape</b><small data-en="Scan the QR from Yape">Escaneas el QR desde Yape</small></div></div>
+            <div class="bh-m"><span class="bh-ic" style="background:#1d4ed8">🏦</span><div><b data-en="Plin and banks">Plin y bancos</b><small data-en="BCP, BBVA, Interbank, Scotiabank, Plin… with “Pay with QR”">BCP, BBVA, Interbank, Scotiabank, Plin… con “Pagar con QR”</small></div></div>
+            <div class="bh-m"><span class="bh-ic" style="background:#0b7a5c">🪙</span><div><b data-en="USDT (crypto)">USDT (cripto)</b><small data-en="From any country · TRC20 or BEP20 network">Desde cualquier país · red TRC20 o BEP20</small></div></div>
+            <div class="bh-m soon"><span class="bh-ic" style="background:#444">💳</span><div><b data-en="Card or PayPal">Tarjeta o PayPal</b><small data-en="Coming soon">Muy pronto</small></div></div>
+          </div>
+        </div>
+        <div class="bh-steps">
+          <h3 data-en="How to buy">Cómo comprar</h3>
+          <ol>
+            <li><b data-en="Download ChispaLive and try it free">Descarga ChispaLive y pruébalo gratis</b><span data-en="3 days with everything unlocked, no card.">3 días con todo desbloqueado, sin tarjeta.</span></li>
+            <li><b data-en="Open 💎 License inside the app">Entra a 💎 Licencia dentro de la app</b><span data-en="Pick your plan and how to pay: the QR and the exact amount show up there.">Elige tu plan y cómo pagar: ahí te sale el QR y el monto exacto.</span></li>
+            <li><b data-en="Send your receipt on Discord">Manda tu comprobante por Discord</b><span data-en="In #🎫・comprar-licencia open a private ticket and paste the screenshot.">En #🎫・comprar-licencia abre un ticket privado y pega la captura.</span></li>
+            <li><b data-en="Receive your key and paste it">Recibe tu clave y pégala</b><span data-en="ChispaLive activates right away on your computer.">ChispaLive se activa al toque en tu computadora.</span></li>
+          </ol>
+          <a class="btn pri" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Join the Discord">Entrar al Discord</a>
+        </div>
+      </div>
       <p class="note" id="pay-note"></p>
     </div>
   </section>
@@ -542,8 +573,8 @@ const CHECKOUT = { bsemanal: '', bmensual: '', banual: '', semanal: '', mensual:
   const hasCard = Object.values(CHECKOUT).some(Boolean);
   function payNote() {
     $('pay-note').textContent = hasCard
-      ? L('Con tarjeta o PayPal la clave te llega al correo apenas pagas. Con Yape o PagoEfectivo, abre un ticket en Discord.', 'With card or PayPal your key reaches your email right after paying. With Yape or PagoEfectivo, open a ticket on Discord.')
-      : L('Por ahora las compras van por Discord: abres un ticket, pagas y te mandamos tu clave.', 'For now purchases go through Discord: open a ticket, pay, and we send you your key.');
+      ? L('Con tarjeta o PayPal la clave te llega al correo apenas pagas. Con Yape, Plin, bancos o USDT, abre un ticket en Discord.', 'With card or PayPal your key reaches your email right after paying. With Yape, Plin, banks or USDT, open a ticket on Discord.')
+      : L('Tu nombre y tus datos no se comparten con nadie. Respondemos los tickets el mismo día.', 'Your name and details are not shared with anyone. We answer tickets the same day.');
   }
   let CUR = 'pen', CUR_SAVED = null;
   try { CUR_SAVED = localStorage.getItem('chispa.cur'); } catch (e) {}
