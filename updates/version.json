@@ -1,10 +1,10 @@
 {
-  "version": "2.35.2",
-  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.2.zip",
-  "sha256": "d6f8e97f94ca4595dec48aec732bd01f5abc91f927ac032bfd42da1e08ef6f8c",
-  "sig": "kGRqKS6ali6gvfA2NdQhObDEVTV4JXKeM2dpqlZh8ZMgXgN7sby8vFgRwDF+qHhcz8I/tC9oLv96SRIxFbw7Bw==",
+  "version": "2.35.3",
+  "zip": "https://esnutbear.github.io/chispalive/updates/ChispaLive-2.35.3.zip",
+  "sha256": "e38baa46d8b17b132ead3045bf63770512926538b3a7a20a5ddc7a275d417627",
+  "sig": "a6MUcY0VgEI4I2t8b/EPWfyzSFJeeP6L5SWsaP7sgPI1cunhJ6EhTmJ0jVPsC9FcxhQEH5ABlhe113bongeWBg==",
   "notes": [
-    "🏦 Nueva forma de pago: escanea el QR desde la app de tu banco o billetera (BCP, BBVA, Interbank, Plin…)"
+    "🪙 Nueva forma de pago: USDT por la red TRC20, para comprar desde cualquier país"
   ],
   "fecha": "2026-11-21"
 }
