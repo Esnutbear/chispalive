@@ -227,6 +227,7 @@ section { padding-top: var(--gap); }
 .price { font-size: clamp(56px, 6.4vw, 96px); font-weight: 780; letter-spacing: -.045em; line-height: 1; margin-top: 36px; font-variant-numeric: tabular-nums; }
 .price small { font-size: 20px; font-weight: 600; letter-spacing: 0; margin-left: 6px; }
 .yr { margin-top: 10px; font-weight: 650; font-size: 18px; }
+.yr.wk { margin-top: 2px; font-size: 14px; opacity: .75; font-weight: 600; }
 .plan ul { margin: 32px 0 36px; padding: 0 0 0 1.1em; display: grid; gap: 10px; flex: 1; }
 .plan .buy2 { display: flex; gap: 10px; flex-wrap: wrap; }
 .plan.best .btn { background: var(--accent-ink); color: #fff; }
@@ -448,16 +449,18 @@ footer a { text-decoration: none; } footer a:hover { color: var(--ink); }
           <p class="who soft" data-en="The classics to liven up your live.">Lo clásico para animar tu live.</p>
           <div class="price" data-pen="S/ 20" data-usd="$5">S/ 20<small data-en="/ month">/ mes</small></div>
           <div class="yr" data-pen="o S/ 90 al año" data-usd="or $24 a year" data-pen-en="or S/ 90 a year" data-usd-es="o $24 al año">o S/ 90 al año</div>
+          <div class="yr wk" data-pen="o S/ 7 la semana para probar" data-usd="or $2 a week to try it" data-pen-en="or S/ 7 a week to try it" data-usd-es="o $2 la semana para probar">o S/ 7 la semana para probar</div>
           <ul><li data-en="6 games: Spin Royale, Wheel, Lucky Roll, Jar, Battle and Race">6 juegos: Spin Royale, Ruleta, Lucky Roll, Frasco, Batalla y Carrera</li><li data-en="Alerts, on-screen chat, featured message, goals, heart goal, rankings and poll">Alertas, chat en pantalla, mensaje destacado, metas, meta de corazón, rankings y votación</li><li data-en="Chat voice, Actions and chat filter">Voz del chat, Acciones y filtro del chat</li><li data-en="OBS control and camera effects">Control de OBS y efectos en la cámara</li><li data-en="Seasonal designs and control from your phone">Diseños de temporada y control desde el celular</li></ul>
-          <div class="buy2"><a class="btn" data-buy="bmensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="banual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
+          <div class="buy2"><a class="btn" data-buy="bsemanal" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Weekly">Semanal</a><a class="btn" data-buy="bmensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="banual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
         </article>
         <article class="plan best rv" style="--i:1">
           <h3>Pro</h3>
           <p class="who" data-en="Everything, for lives that want more.">Todo, para el live que quiere más.</p>
           <div class="price" data-pen="S/ 35" data-usd="$9">S/ 35<small data-en="/ month">/ mes</small></div>
           <div class="yr" data-pen="o S/ 150 al año" data-usd="or $40 a year" data-pen-en="or S/ 150 a year" data-usd-es="o $40 al año">o S/ 150 al año</div>
+          <div class="yr wk" data-pen="o S/ 12 la semana para probar" data-usd="or $3 a week to try it" data-pen-en="or S/ 12 a week to try it" data-usd-es="o $3 la semana para probar">o S/ 12 la semana para probar</div>
           <ul><li data-en="Everything in Basic">Todo lo del Básico</li><li data-en="Auction and Subathon, the ones that bring in the most gifts">Subasta y Subathon, los que más regalos mueven</li><li data-en="12 more games: Bingo, Rock paper scissors, Castles, Tower, Boss, Trivia, Guess the Word, Hot Bomb, Fishing, Penalties, Slots and Pet">12 juegos más: Bingo, Piedra papel o tijera, Castillos, Torre, Jefe, Trivia, Adivina, Bomba, Pesca, Penales, Tragamonedas y Mascota</li><li data-en="Giveaways, PK Scoreboard and Chat Characters">Sorteos, Marcador PK y Muñequitos del chat</li><li data-en="Points and levels for your viewers">Puntos y niveles para tus viewers</li><li data-en="Roblox connected to your live">Roblox conectado a tu live</li></ul>
-          <div class="buy2"><a class="btn" data-buy="mensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="anual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
+          <div class="buy2"><a class="btn" data-buy="semanal" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Weekly">Semanal</a><a class="btn" data-buy="mensual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Monthly">Mensual</a><a class="btn" data-buy="anual" href="https://discord.gg/xwXS5TdtEY" target="_blank" rel="noopener" data-en="Yearly">Anual</a></div>
         </article>
       </div>
       <div class="pay rv"><span data-en="Pay with">Pagas con</span><span>Yape</span><span>PagoEfectivo</span><span data-en="Card or PayPal">Tarjeta o PayPal</span></div>
@@ -507,7 +510,7 @@ footer a { text-decoration: none; } footer a:hover { color: var(--ink); }
 </footer>
 <script>
 // Links de pago con tarjeta (Lemon Squeezy). Cuando los tengas, pégalos aquí y los botones irán directo al pago.
-const CHECKOUT = { bmensual: '', banual: '', mensual: '', anual: '' };
+const CHECKOUT = { bsemanal: '', bmensual: '', banual: '', semanal: '', mensual: '', anual: '' };
 
 (function () {
   const RM = matchMedia('(prefers-reduced-motion: reduce)').matches;
